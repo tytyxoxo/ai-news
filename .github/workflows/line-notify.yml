@@ -1,0 +1,42 @@
+name: Notify LINE
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'articles/**.md'
+
+jobs:
+  send-line:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Get article content
+        id: article
+        run: |
+          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
+          if [ -z "$FILE" ]; then exit 0; fi
+
+          HEADLINES=$(grep '^## [0-9]' "$FILE" | head -5 | sed 's/## //')
+          DATE=$(grep '^date:' "$FILE" | head -1 | sed 's/date: //')
+
+          MESSAGE="AI News ${DATE}
+
+${HEADLINES}
+
+อ่านเพิ่มเติม: https://github.com/${{ github.repository }}/blob/main/${FILE}"
+
+          echo "message<<EOF" >> $GITHUB_OUTPUT
+          echo "$MESSAGE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Send to LINE
+        run: |
+          curl -s -X POST https://api.line.me/v2/bot/message/push \
+            -H "Authorization: Bearer ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"to\": \"${{ secrets.LINE_TO }}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo '${{ steps.article.outputs.message }}' | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}"
