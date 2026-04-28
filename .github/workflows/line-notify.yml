@@ -40,7 +40,8 @@ jobs:
           FILE: ${{ steps.article.outputs.file }}
         run: |
           MESSAGE=$(printf "AI News %s\n\n%s\n\nอ่านเพิ่มเติม: https://github.com/%s/blob/main/%s" "$DATE" "$HEADLINES" "$REPO" "$FILE")
-          curl -s -X POST https://api.line.me/v2/bot/message/push \
+          RESPONSE=$(curl -s -X POST https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer ${LINE_TOKEN}" \
             -H "Content-Type: application/json" \
-            -d "{\"to\": \"${LINE_TO}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo "$MESSAGE" | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}"
+            -d "{\"to\": \"${LINE_TO}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo "$MESSAGE" | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}")
+          echo "LINE API Response: $RESPONSE"
