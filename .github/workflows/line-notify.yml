@@ -50,7 +50,8 @@ jobs:
           else:
               date_fmt = ""
 
-          content = re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
+          content = re.sub(r'^---[\s\S]*?---\s*', '', content)
+          content = re.sub(r'^date:.*$', '', content, flags=re.MULTILINE)
           content = re.sub(r'^#{1,6}\s*', '', content, flags=re.MULTILINE)
           content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
           content = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'ที่มา: \1', content)
