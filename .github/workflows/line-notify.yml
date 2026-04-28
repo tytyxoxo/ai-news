@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'articles/**.md'
+      - "articles/**.md"
 
 jobs:
   send-line:
@@ -19,24 +19,28 @@ jobs:
         id: article
         run: |
           FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
-          if [ -z "$FILE" ]; then exit 0; fi
-
+          if [ -z "$FILE" ]; then echo "No article found, skipping."; exit 0; fi
           HEADLINES=$(grep '^## [0-9]' "$FILE" | head -5 | sed 's/## //')
-          DATE=$(grep '^date:' "$FILE" | head -1 | sed 's/date: //')
-
-          MESSAGE="AI News ${DATE}
-
-${HEADLINES}
-
-อ่านเพิ่มเติม: https://github.com/${{ github.repository }}/blob/main/${FILE}"
-
-          echo "message<<EOF" >> $GITHUB_OUTPUT
-          echo "$MESSAGE" >> $GITHUB_OUTPUT
+          DATE=$(grep '^## date:' "$FILE" | head -1 | sed 's/## date: //')
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "headlines<<EOF" >> $GITHUB_OUTPUT
+          echo "$HEADLINES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Send to LINE
+        if: steps.article.outputs.file != ''
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_TO }}
+          DATE: ${{ steps.article.outputs.date }}
+          HEADLINES: ${{ steps.article.outputs.headlines }}
+          REPO: ${{ github.repository }}
+          FILE: ${{ steps.article.outputs.file }}
         run: |
+          MESSAGE=$(printf "AI News %s\n\n%s\n\nอ่านเพิ่มเติม: https://github.com/%s/blob/main/%s" "$DATE" "$HEADLINES" "$REPO" "$FILE")
+
           curl -s -X POST https://api.line.me/v2/bot/message/push \
-            -H "Authorization: Bearer ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}" \
+            -H "Authorization: Bearer ${LINE_TOKEN}" \
             -H "Content-Type: application/json" \
-            -d "{\"to\": \"${{ secrets.LINE_TO }}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo '${{ steps.article.outputs.message }}' | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}"
+            -d "{\"to\": \"${LINE_TO}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo "$MESSAGE" | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}"
