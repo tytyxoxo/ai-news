@@ -43,7 +43,7 @@ jobs:
           with open(file) as f:
               content = f.read()
 
-          date_match = re.search(r'^## date:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
+          date_match = re.search(r'^date:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
           if date_match:
               y, m, d = date_match.group(1).split('-')
               date_fmt = f"{d}/{m}/{y}"
@@ -53,11 +53,13 @@ jobs:
           content = re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
           content = re.sub(r'^#{1,6}\s*', '', content, flags=re.MULTILINE)
           content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
-          content = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'\1 \2', content)
+          content = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'ที่มา: \1', content)
+          content = re.sub(r'\n---\n', '\n\n──────────────\n\n', content)
+          content = re.sub(r'_([^_]+)_', r'\1', content)
           content = re.sub(r'\n{3,}', '\n\n', content)
           content = content.strip()
 
-          message = f"สรุปข่าว AI ประจำวัน {date_fmt}\n\n{content}"
+          message = f"🗞 สรุปข่าว AI ประจำวัน {date_fmt}\n\n{content}"
 
           payload = {
               "to": to,
