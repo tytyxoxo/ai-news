@@ -27,6 +27,19 @@ WebSearch, WebFetch, GitHub connector (create_or_update_file)
 จากนั้นใช้ WebFetch ดึงเนื้อหาจาก URL ที่ได้จากผลการค้นหาเท่านั้น
 ห้าม WebFetch ตรงจาก domain โดยไม่ผ่าน WebSearch ก่อน
 
+## แหล่งข้อมูลที่แนะนำ
+
+ถ้า WebSearch คืน URL จากแหล่งเหล่านี้ให้เลือกก่อน
+
+- techcrunch.com
+- theverge.com
+- huggingface.co/blog
+- openai.com/news
+- anthropic.com/news
+- blogs.microsoft.com
+- blog.google
+- venturebeat.com
+
 ## ขั้นตอนที่ 2 — เขียนสรุปภาษาไทย
 
 เขียนทุกอย่างเป็นภาษาไทย สำหรับแต่ละข่าวให้มี
