@@ -7,6 +7,7 @@ on:
     paths:
       - "articles/**.md"
   workflow_dispatch:
+
 jobs:
   send-line:
     runs-on: ubuntu-latest
@@ -21,7 +22,7 @@ jobs:
           FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
           if [ -z "$FILE" ]; then echo "No article found, skipping."; exit 0; fi
           HEADLINES=$(grep '^## [0-9]' "$FILE" | head -5 | sed 's/## //')
-          DATE=$(grep '^## date:' "$FILE" | head -1 | sed 's/## date: //')
+          DATE=$(grep '^date:' "$FILE" | head -1 | sed 's/date: //')
           echo "file=$FILE" >> $GITHUB_OUTPUT
           echo "date=$DATE" >> $GITHUB_OUTPUT
           echo "headlines<<EOF" >> $GITHUB_OUTPUT
@@ -39,7 +40,6 @@ jobs:
           FILE: ${{ steps.article.outputs.file }}
         run: |
           MESSAGE=$(printf "AI News %s\n\n%s\n\nอ่านเพิ่มเติม: https://github.com/%s/blob/main/%s" "$DATE" "$HEADLINES" "$REPO" "$FILE")
-
           curl -s -X POST https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer ${LINE_TOKEN}" \
             -H "Content-Type: application/json" \
