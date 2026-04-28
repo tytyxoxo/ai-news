@@ -62,8 +62,6 @@ WebSearch, WebFetch, GitHub connector (create_or_update_file)
 
 ## date: {YYYY-MM-DD}
 
-# สรุปข่าว AI ประจำวัน {DD/MM/YYYY}
-
 ## 1. {หัวข้อข่าว}
 
 {เรียงความวิเคราะห์ 80-120 คำ}

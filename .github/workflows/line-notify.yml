@@ -6,41 +6,71 @@ on:
       - main
     paths:
       - "articles/**.md"
+  workflow_dispatch:
 
 jobs:
   send-line:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
       - name: Get article content
         id: article
         run: |
-          FILE=$(ls articles/*.md 2>/dev/null | grep -v '.gitkeep' | sort | tail -1)
+          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
+          if [ -z "$FILE" ]; then
+            FILE=$(ls articles/*.md 2>/dev/null | grep -v '.gitkeep' | sort | tail -1)
+          fi
           if [ -z "$FILE" ]; then echo "No article found, skipping."; exit 0; fi
-          HEADLINES=$(grep '^## [0-9]' "$FILE" | head -5 | sed 's/## //')
-          DATE=$(grep '^date:' "$FILE" | head -1 | sed 's/date: //')
           echo "file=$FILE" >> $GITHUB_OUTPUT
-          echo "date=$DATE" >> $GITHUB_OUTPUT
-          echo "headlines<<EOF" >> $GITHUB_OUTPUT
-          echo "$HEADLINES" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Send to LINE
         if: steps.article.outputs.file != ''
         env:
           LINE_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_TO: ${{ secrets.LINE_TO }}
-          DATE: ${{ steps.article.outputs.date }}
-          HEADLINES: ${{ steps.article.outputs.headlines }}
-          REPO: ${{ github.repository }}
           FILE: ${{ steps.article.outputs.file }}
         run: |
-          MESSAGE=$(printf "AI News %s\n\n%s\n\nอ่านเพิ่มเติม: https://github.com/%s/blob/main/%s" "$DATE" "$HEADLINES" "$REPO" "$FILE")
-          RESPONSE=$(curl -s -X POST https://api.line.me/v2/bot/message/push \
-            -H "Authorization: Bearer ${LINE_TOKEN}" \
-            -H "Content-Type: application/json" \
-            -d "{\"to\": \"${LINE_TO}\", \"messages\": [{\"type\": \"text\", \"text\": $(echo "$MESSAGE" | python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))')}]}")
-          echo "LINE API Response: $RESPONSE"
+          python3 - <<'PYEOF'
+          import re, os, subprocess, json
+
+          file = os.environ['FILE']
+          token = os.environ['LINE_TOKEN']
+          to = os.environ['LINE_TO']
+
+          with open(file) as f:
+              content = f.read()
+
+          date_match = re.search(r'^## date:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
+          if date_match:
+              y, m, d = date_match.group(1).split('-')
+              date_fmt = f"{d}/{m}/{y}"
+          else:
+              date_fmt = ""
+
+          content = re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
+          content = re.sub(r'^#{1,6}\s*', '', content, flags=re.MULTILINE)
+          content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
+          content = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'\1 \2', content)
+          content = re.sub(r'\n{3,}', '\n\n', content)
+          content = content.strip()
+
+          message = f"สรุปข่าว AI ประจำวัน {date_fmt}\n\n{content}"
+
+          payload = {
+              "to": to,
+              "messages": [{"type": "text", "text": message}]
+          }
+
+          r = subprocess.run([
+              'curl', '-s', '-X', 'POST',
+              'https://api.line.me/v2/bot/message/push',
+              '-H', f'Authorization: Bearer {token}',
+              '-H', 'Content-Type: application/json',
+              '-d', json.dumps(payload)
+          ], capture_output=True, text=True)
+
+          print(f"Response: {r.stdout}")
+          PYEOF
