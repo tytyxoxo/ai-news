@@ -19,10 +19,7 @@ jobs:
       - name: Get article content
         id: article
         run: |
-          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
-          if [ -z "$FILE" ]; then
-            FILE=$(ls articles/*.md 2>/dev/null | sort | tail -1)
-          fi
+          FILE=$(ls articles/*.md 2>/dev/null | grep -v '.gitkeep' | sort | tail -1)
           if [ -z "$FILE" ]; then echo "No article found, skipping."; exit 0; fi
           HEADLINES=$(grep '^## [0-9]' "$FILE" | head -5 | sed 's/## //')
           DATE=$(grep '^date:' "$FILE" | head -1 | sed 's/date: //')
