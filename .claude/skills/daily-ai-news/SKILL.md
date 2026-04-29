@@ -81,7 +81,7 @@ date: {YYYY-MM-DD}
 
 ---
 
-_สร้างโดย Claude Code Routine เวลา 07:00 น._
+_สร้างโดย Claude Code Routine เวลา 09:00 น._
 
 ## ขั้นตอนที่ 4 — บันทึกขึ้น GitHub และส่ง LINE
 
