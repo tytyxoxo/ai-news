@@ -17,15 +17,19 @@ WebSearch, WebFetch, GitHub connector (create_or_update_file)
 
 ## ขั้นตอนที่ 1 — ค้นหาข่าว
 
+ก่อนค้นหาข่าว ให้ทำตามนี้ก่อน
+
+1. ใช้ GitHub connector อ่านไฟล์ล่าสุดใน articles/ เพื่อดูว่าวันก่อนหน้าเขียนข่าวอะไรไปแล้ว
+2. จด URL และหัวข้อที่เคยรายงานไปแล้ว
+3. ค้นหาข่าวใหม่ที่ไม่ซ้ำกับที่เคยรายงาน
+
 ใช้ WebSearch ค้นหาด้วย query เหล่านี้
 
 - "AI news today"
 - "artificial intelligence latest 2026"
 - "LLM machine learning news today"
 
-เลือกข่าวที่น่าสนใจ 5 ข่าว จากผลการค้นหา
-จากนั้นใช้ WebFetch ดึงเนื้อหาจาก URL ที่ได้จากผลการค้นหาเท่านั้น
-ห้าม WebFetch ตรงจาก domain โดยไม่ผ่าน WebSearch ก่อน
+ห้ามเลือกข่าวที่มี URL หรือหัวข้อซ้ำกับไฟล์วันก่อนหน้า
 
 ## แหล่งข้อมูลที่แนะนำ
 
@@ -58,8 +62,8 @@ WebSearch, WebFetch, GitHub connector (create_or_update_file)
 ใช้รูปแบบ Markdown นี้เท่านั้น
 
 ---
-
-## date: {YYYY-MM-DD}
+date: {YYYY-MM-DD}
+---
 
 ## 1. {หัวข้อข่าว}
 
