@@ -8,7 +8,10 @@ description: ค้นหาและสรุปข่าว AI ประจำ
 ## ขั้นตอนที่ 0 — เตรียมการ
 
 1. ตรวจสอบว่า GitHub connector พร้อมใช้งาน — ถ้าไม่มีให้หยุดและแจ้งสาเหตุ
-2. กำหนดวันที่ปัจจุบันตาม timezone Asia/Bangkok → `TODAY`
+2. กำหนดวันที่ปัจจุบันตาม timezone Asia/Bangkok แล้ว extract ค่าต่อไปนี้:
+   - `TODAY` = วันที่เต็ม (YYYY-MM-DD)
+   - `YEAR` = ปี (YYYY)
+   - `MONTH` = ชื่อเดือนภาษาอังกฤษ (เช่น July)
 3. อ่านไฟล์ล่าสุดใน `articles/` ผ่าน GitHub connector เพื่อเก็บ URL ที่เคยรายงานไว้ → `SEEN_URLS`
 4. กำหนด `OUTPUT_FILE = articles/{TODAY}-brief.md`
 5. ตรวจสอบว่า `OUTPUT_FILE` มีอยู่แล้วหรือไม่ — ถ้ามีและมีเนื้อหาครบให้หยุด แจ้งว่า "ไฟล์วันนี้มีอยู่แล้ว" โดยไม่ต้อง overwrite
@@ -16,9 +19,9 @@ description: ค้นหาและสรุปข่าว AI ประจำ
 ## ขั้นตอนที่ 1 — ค้นหาข่าว
 
 ใช้ WebSearch ด้วย query ต่อไปนี้:
-- `"AI news today"`
-- `"artificial intelligence latest 2026"`
-- `"LLM machine learning news today"`
+- `"AI news {TODAY}"` — ใช้วันที่จาก `TODAY` ในรูปแบบ YYYY-MM-DD
+- `"artificial intelligence latest {MONTH} {YEAR}"` — ใช้เดือนและปีจาก `TODAY`
+- `"LLM machine learning news {TODAY}"`
 
 อ่านรายชื่อแหล่งข่าวที่อนุญาตจาก `reference/trusted-sources.md` — ห้ามใช้แหล่งที่ไม่อยู่ในรายการนั้น
 
