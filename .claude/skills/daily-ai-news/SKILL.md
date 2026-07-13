@@ -18,10 +18,10 @@ description: ค้นหาและสรุปข่าว AI ประจำ
 
 ## ขั้นตอนที่ 1 — ค้นหาข่าว
 
-ใช้ WebSearch ด้วย query ต่อไปนี้:
-- `"AI news {TODAY}"` — ใช้วันที่จาก `TODAY` ในรูปแบบ YYYY-MM-DD
-- `"artificial intelligence latest {MONTH} {YEAR}"` — ใช้เดือนและปีจาก `TODAY`
-- `"LLM machine learning news {TODAY}"`
+ใช้ WebSearch ด้วย query ต่อไปนี้ (ห้ามใส่วันที่ตัวเลขแบบ YYYY-MM-DD ลงใน query — WebSearch ไม่รองรับการกรองตามวันที่ ใส่ไปจะทำให้ผลลัพธ์บางหรือว่างเปล่า การกรอง 24 ชั่วโมงให้ทำที่ขั้นตอนที่ 2 จาก published date จริงของแต่ละข่าวแทน):
+- `"AI news today"`
+- `"artificial intelligence latest news {MONTH} {YEAR}"` — ใช้เดือนและปีจาก `TODAY`
+- `"LLM machine learning news today"`
 
 อ่านรายชื่อแหล่งข่าวที่อนุญาตจาก `reference/trusted-sources.md` — ห้ามใช้แหล่งที่ไม่อยู่ในรายการนั้น
 
