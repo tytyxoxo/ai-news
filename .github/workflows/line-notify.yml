@@ -19,8 +19,8 @@ jobs:
       - name: Get article content
         id: article
         run: |
-          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep 'articles/' | head -1)
-          if [ -z "$FILE" ]; then
+          FILE=$(git diff-tree --no-commit-id -r --diff-filter=A --name-only ${{ github.sha }} | grep 'articles/.*\.md$' | head -1)
+          if [ -z "$FILE" ] && [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             FILE=$(ls articles/*.md 2>/dev/null | grep -v '.gitkeep' | sort | tail -1)
           fi
           if [ -z "$FILE" ]; then echo "No article found, skipping."; exit 0; fi
@@ -54,7 +54,7 @@ jobs:
           content = re.sub(r'^date:.*$', '', content, flags=re.MULTILINE)
           content = re.sub(r'^#{1,6}\s*', '', content, flags=re.MULTILINE)
           content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
-          content = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'ที่มา: \1', content)
+          content = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'\1', content)
           content = re.sub(r'\n---\n', '\n\n──────────────\n\n', content)
           content = re.sub(r'_([^_]+)_', r'\1', content)
           content = re.sub(r'\n{3,}', '\n\n', content)
@@ -76,4 +76,12 @@ jobs:
           ], capture_output=True, text=True)
 
           print(f"Response: {r.stdout}")
+
+          try:
+              body = json.loads(r.stdout)
+          except json.JSONDecodeError:
+              body = {}
+
+          if r.returncode != 0 or 'message' in body:
+              raise SystemExit(f"LINE push failed: {r.stdout}")
           PYEOF
