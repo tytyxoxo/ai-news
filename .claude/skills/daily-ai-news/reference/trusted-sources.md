@@ -40,7 +40,7 @@
 
 - Blognone — https://www.blognone.com/
 - Beartai — https://www.beartai.com/
-- The Standard Tech — https://thestandard.co/category/technology/
+- The Standard Tech — https://thestandard.co/category/news/tech/
 - Thairath Tech — https://www.thairath.co.th/news/tech
 - Prachachat ICT — https://www.prachachat.net/ict
 - NECTEC — https://www.nectec.or.th/news/
@@ -49,3 +49,18 @@
 
 - Official blog มีอคติเชิง PR — สรุปสิ่งที่เขารายงาน ไม่ใช่สิ่งที่เป็นจริงในโลก
 - Prefer primary announcement เหนือบทวิเคราะห์ทุกกรณี
+
+## โดเมนที่ WebFetch เข้าไม่ได้ (บล็อก bot)
+
+โดเมนต่อไปนี้ปฏิเสธการเข้าถึงของ WebFetch (403 หรือ block) — ห้ามเสีย call พยายามยืนยัน published date ด้วย WebFetch กับโดเมนเหล่านี้ ให้ใช้วันที่ที่ WebSearch ระบุไว้ชัดเจนแทนได้ (ต้องเป็นวันที่ตัวเลขจริง ไม่ใช่คำกว้างๆ เช่น "today"/"recently") ถ้า WebSearch ก็ไม่ระบุวันที่ชัดเจน ให้ตัดข่าวนั้นทิ้ง:
+
+- OpenAI (openai.com)
+- Reuters (reuters.com)
+- Bloomberg (bloomberg.com)
+- The Verge (theverge.com)
+- Blognone (blognone.com)
+- Ars Technica (arstechnica.com)
+- Wired (wired.com)
+- VentureBeat (venturebeat.com)
+
+MIT Technology Review (technologyreview.com) โหลดได้แต่เป็นหน้า JS ว่างเปล่า ไม่มีบทความให้อ่าน — ถือว่าใช้ไม่ได้เช่นกันจนกว่าจะเจอวิธีอื่น
