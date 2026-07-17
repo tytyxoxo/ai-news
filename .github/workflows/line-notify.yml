@@ -62,6 +62,14 @@ jobs:
 
           message = f"🗞 สรุปข่าว AI ประจำวัน {date_fmt}\n\n{content}"
 
+          LIMIT = 4500
+          print(f"Message length: {len(message)} chars (limit {LIMIT})")
+          if len(message) > LIMIT:
+              raise SystemExit(
+                  f"Message length {len(message)} exceeds {LIMIT} chars — "
+                  f"trim it at the source (skill step 5) before committing, not here."
+              )
+
           payload = {
               "to": to,
               "messages": [{"type": "text", "text": message}]
