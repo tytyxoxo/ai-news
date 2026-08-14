@@ -50,25 +50,42 @@ jobs:
           else:
               date_fmt = ""
 
-          content = re.sub(r'^---[\s\S]*?---\s*', '', content)
-          content = re.sub(r'^date:.*$', '', content, flags=re.MULTILINE)
-          content = re.sub(r'^#{1,6}\s*', '', content, flags=re.MULTILINE)
-          content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
-          content = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'\1', content)
-          content = re.sub(r'\n---\n', '\n\n──────────────\n\n', content)
-          content = re.sub(r'_([^_]+)_', r'\1', content)
-          content = re.sub(r'\n{3,}', '\n\n', content)
-          content = content.strip()
+          body = re.sub(r'^---[\s\S]*?---\s*', '', content)
+          body = re.sub(r'^date:.*$', '', body, flags=re.MULTILINE)
 
-          message = f"🗞 สรุปข่าว AI ประจำวัน {date_fmt}\n\n{content}"
+          def render(body_text):
+              c = re.sub(r'^#{1,6}\s*', '', body_text, flags=re.MULTILINE)
+              c = re.sub(r'\*\*([^*]+)\*\*', r'\1', c)
+              c = re.sub(r'\[([^\]]+)\]\(https?://[^\)]*\)', r'\1', c)
+              c = re.sub(r'\n---\n', '\n\n──────────────\n\n', c)
+              c = re.sub(r'_([^_]+)_', r'\1', c)
+              c = re.sub(r'\n{3,}', '\n\n', c)
+              c = c.strip()
+              return f"🗞 สรุปข่าว AI ประจำวัน {date_fmt}\n\n{c}"
 
           LIMIT = 4500
+          message = render(body)
           print(f"Message length: {len(message)} chars (limit {LIMIT})")
+
           if len(message) > LIMIT:
-              raise SystemExit(
-                  f"Message length {len(message)} exceeds {LIMIT} chars — "
-                  f"trim it at the source (skill step 5) before committing, not here."
-              )
+              # Deterministic fallback: the skill's own pre-commit char count is
+              # LLM self-reported and has slipped before. Drop whole trailing news
+              # items (never mid-sentence) until it fits, footer always kept.
+              items = re.split(r'\n+---\n+', body.strip())
+              footer = items.pop() if items and items[-1].lstrip().startswith('_') else None
+              while len(items) > 1 and len(message) > LIMIT:
+                  dropped = items.pop()
+                  title = re.search(r'##\s*\d+\.\s*(.+)', dropped)
+                  print(f"Auto-trim: dropped item -> {title.group(1) if title else '(untitled)'}")
+                  rebuilt = '\n\n---\n\n'.join(items + ([footer] if footer else []))
+                  message = render(rebuilt)
+              print(f"Message length after auto-trim: {len(message)} chars (limit {LIMIT})")
+              if len(message) > LIMIT:
+                  raise SystemExit(
+                      f"Message length {len(message)} exceeds {LIMIT} chars even after dropping "
+                      f"all but one item — that single item is too long by itself. "
+                      f"Fix at the source (skill step 5), not here."
+                  )
 
           payload = {
               "to": to,
