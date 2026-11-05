@@ -39,9 +39,10 @@
 ## ไทย
 
 - Blognone — https://www.blognone.com/
-- Beartai — https://www.beartai.com/
 - The Standard Tech — https://thestandard.co/category/news/tech/
-- Thairath Tech — https://www.thairath.co.th/news/tech
+- Techsauce — https://techsauce.co/
+- Brand Inside — https://brandinside.asia/
+- TechHub — https://www.techhub.in.th/
 - Prachachat ICT — https://www.prachachat.net/ict
 - NECTEC — https://www.nectec.or.th/news/
 
@@ -50,17 +51,8 @@
 - Official blog มีอคติเชิง PR — สรุปสิ่งที่เขารายงาน ไม่ใช่สิ่งที่เป็นจริงในโลก
 - Prefer primary announcement เหนือบทวิเคราะห์ทุกกรณี
 
-## โดเมนที่ WebFetch เข้าไม่ได้ (บล็อก bot)
+## Feed ที่ดึงจริง
 
-โดเมนต่อไปนี้ปฏิเสธการเข้าถึงของ WebFetch (403 หรือ block) — ห้ามเสีย call พยายามยืนยัน published date ด้วย WebFetch กับโดเมนเหล่านี้ ให้ใช้วันที่ที่ WebSearch ระบุไว้ชัดเจนแทนได้ (ต้องเป็นวันที่ตัวเลขจริง ไม่ใช่คำกว้างๆ เช่น "today"/"recently") ถ้า WebSearch ก็ไม่ระบุวันที่ชัดเจน ให้ตัดข่าวนั้นทิ้ง:
+รายการ RSS ที่ GitHub Actions ดึงจริงอยู่ใน `FEEDS` ของ `scripts/fetch_feeds.py` — ถ้าเพิ่ม/ลบแหล่งในไฟล์นี้ ต้องแก้ที่นั่นด้วย
 
-- OpenAI (openai.com)
-- Reuters (reuters.com)
-- Bloomberg (bloomberg.com)
-- The Verge (theverge.com)
-- Blognone (blognone.com)
-- Ars Technica (arstechnica.com)
-- Wired (wired.com)
-- VentureBeat (venturebeat.com)
-
-MIT Technology Review (technologyreview.com) โหลดได้แต่เป็นหน้า JS ว่างเปล่า ไม่มีบทความให้อ่าน — ถือว่าใช้ไม่ได้เช่นกันจนกว่าจะเจอวิธีอื่น
+แหล่งที่ยังไม่มีข่าวเข้า candidates (ไม่มี RSS หรือบล็อก bot): Anthropic, Meta AI, VentureBeat (429), Reuters (401) — ข่าวจากค่ายเหล่านี้มักมาทาง TechCrunch / The Verge / Bloomberg อยู่แล้ว

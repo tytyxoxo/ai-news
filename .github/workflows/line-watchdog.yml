@@ -1,0 +1,23 @@
+name: LINE watchdog
+
+# The routine runs at 09:00 Asia/Bangkok; if today's brief still isn't on main
+# by 10:13, nothing reached LINE — say so instead of staying silent.
+on:
+  schedule:
+    - cron: "13 3 * * *" # 10:13 Asia/Bangkok
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Alert if today's brief is missing
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_TO }}
+        run: |
+          TODAY=$(TZ=Asia/Bangkok date +%F)
+          if [ -f "articles/$TODAY-brief.md" ]; then echo "OK: $TODAY brief exists"; exit 0; fi
+          python3 scripts/line_notify.py --text "⚠️ ai-news: ยังไม่มีสรุปข่าววันที่ $TODAY — routine 09:00 น. อาจไม่ได้รันหรือล้ม ตรวจที่ claude.ai/code"
