@@ -1,5 +1,12 @@
 # Decisions
 
+## 2026-11-06 — fetch-feeds รันทุกชั่วโมง, routine กรอง 36 ชม. + dedup
+
+- **ตัดสินใจ:** cron `17 * * * *` แทน `17 0 * * *`; routine ยอม candidates เก่าได้ถึง 12 ชม. และกรองข่าว 36 ชม. โดยกันซ้ำด้วย URL ใน articles 2 ไฟล์ล่าสุด
+- **เหตุผล:** วันแรก (6 พ.ย.) cron 07:17 ไม่รันเลย ไม่มี branch `feeds` → routine ส่ง "ไม่มีข่าว"; watchdog ของ 5 พ.ย. ก็รันช้า 7 ชม. 45 นาที — GitHub cron เป็น best-effort จะผูกกับรอบเดียวก่อน 09:00 ไม่ได้
+- **Trade-off:** รัน Actions ~24 ครั้ง/วัน (repo public ไม่เสียเงิน); branch `feeds` ยังเป็น commit เดียว
+- **ทางเลือกที่ไม่เอา:** ให้ routine สั่ง workflow_dispatch เอง (ไม่แน่ใจว่า connector ทำได้), ตั้งหลาย cron ช่วงเช้า (ยังโดนข้ามทั้งชุดได้)
+
 ## 2026-11-05 — LINE แยกบับเบิลต่อข่าว, candidates อยู่ branch แยก, เก็บข่าว 30 วัน
 
 - **ตัดสินใจ:** (1) `line_notify.py` ส่ง 1 ข่าว = 1 text bubble (สูงสุด 5) แทนข้อความเดียว 4,500 ตัวอักษร — ลบระบบงบตัวอักษรใน skill และ auto-trim ใน workflow (2) `candidates.json` force-push เป็น orphan commit เดียวบน branch `feeds` (3) ลบ `articles/` เก่ากว่า 30 วันทุกวัน (4) watchdog 10:13 น. เตือนทาง LINE ถ้าไม่มีไฟล์วันนี้ (5) feed ไทย: เพิ่ม Techsauce / Brand Inside / TechHub, ตัด Beartai (feed ค้าง 6 ต.ค.) / Thairath (ไม่มีข่าว AI ผ่าน)

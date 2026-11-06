@@ -4,7 +4,9 @@ name: Fetch feeds
 # reach news sites, so it reads feeds/candidates.json (branch `feeds`) through the GitHub connector.
 on:
   schedule:
-    - cron: "17 0 * * *" # 07:17 Asia/Bangkok, off the top of the hour to dodge cron delays
+    # ponytail: hourly because GitHub cron is best-effort — on day one the 07:17 run never
+    # fired and the watchdog ran 7h45m late. Each run overwrites one orphan commit, so no history cost.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -45,4 +47,4 @@ jobs:
           done
           if git diff --cached --quiet; then echo "Nothing to prune"; exit 0; fi
           git commit -m "Prune articles older than $CUTOFF [skip ci]"
-          git push
+          git pull --rebase -q && git push  # routine may have committed since checkout
