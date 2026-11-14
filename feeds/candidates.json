@@ -1,0 +1,427 @@
+{
+ "generated_at": "2026-11-14T19:13:06.852898+00:00",
+ "window_hours": 36,
+ "failed_feeds": [],
+ "items": [
+  {
+   "source": "TechCrunch",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "published": "2026-11-14T17:30:00+00:00",
+   "summary": "Last month, chatbot platform Character.ai filed for bankruptcy just five years after launching. More recently, privacy-focused AI assistant Ollie announced its shutdown a few weeks ago. Aside from Character.ai and Ollie, plenty of AI bets never even survive inside the companies that build them. According to S&P Global Market Intelligence , about 42% of AI initiatives are ultimately abandoned by their corporate parents. The reasons vary: insufficient funding, technical challenges, competition, difficulty scaling, or just weak user demand. The result is a growing AI graveyard. Below is a look at some of the most notable AI products, startups, launches, and bets that have shut down, pivoted, or significantly missed expectations. Think of it less as a scorecard of flops than as a record of what these attempts can (hopefully) teach the rest of the industry. Even the biggest players aren’t immune. OpenAI, one of the most valuable private companies in the world, has had its own share of casualties and missteps. One of the more recent examples was its attempt to turn ChatGPT into a broader “ super app .” On July 9, OpenAI updated the app to combine several experiences, including separate “"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "published": "2026-11-14T16:34:15+00:00",
+   "summary": "Jensen Huang’s departure from Nvidia has drawn a range of responses across Asia, with some governments moving to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. On Sunday, November 8, Nvidia’s board launched an independent investigation after reports that Huang was targeted by a Chinese spy operation; Huang admitted to an affair with Alice Huang, a former executive at Singapore-based chip company Megaspeed. Nvidia’s influence extends far beyond the United States. The chip giant has built close ties with companies worldwide, particularly in Asia, where many of its key partners play important roles in the global AI industry. China’s foreign ministry rejected allegations on November 10 that a Chinese businesswoman linked to former Nvidia CEO Jensen Huang was a spy, calling them groundless and a smear against Beijing. On Friday , a spokesperson reiterated opposition to export controls that disrupt global supply chains and stated the ministry was not aware of reports linking restricted Nvidia chips to a Shanghai data center associated with Alice Huang. Huang’s exit has also raised uncertainty over more than "
+  },
+  {
+   "source": "Bloomberg",
+   "title": "By The Way: Headlines You May Have Missed",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-14/by-the-way-headlines-you-may-have-missed-video",
+   "published": "2026-11-14T16:17:22+00:00",
+   "summary": "Jensen Huang’s leather jacket, traders busting out fax machines during the Outlook outage, mega paydays for AI talent, and first-class Frontier tickets for $129: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "AI Tools Huang Championed Now Star in Memes of His Downfall",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-14/ai-tools-huang-championed-now-star-in-memes-of-his-downfall",
+   "published": "2026-11-14T15:57:58+00:00",
+   "summary": "Once artificial intelligence’s leading hype-man, Jensen Huang is now the face of an AI-driven meme craze."
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Anthropic IPO Tests Investor Appetite for AI",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
+   "published": "2026-11-14T15:54:39+00:00",
+   "summary": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. (Source: Bloomberg)"
+  },
+  {
+   "source": "The Verge",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "published": "2026-11-14T15:12:19+00:00",
+   "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that shimmered in the stadium's lights. Few are cheering for Jensen Huang now. He has left Nvidia after seemingly enabling two chip smuggling scandals and allegedly having three extramarital affairs , including one with an alleged Chinese spy at the same time he was mingling with President Donald Trump. The world is watching to see if … Read the full story at The Verge."
+  },
+  {
+   "source": "Techsauce",
+   "title": "AI ที่วิจัยเก่งขึ้นเรื่อย ๆ OpenAI เลยต้องมี ‘ปุ่มหยุดฉุกเฉิน’ รู้จักระบบ Control Room ที่หยุด AI ในห้องวิจัย ได้ภายใน 35 วินาที",
+   "url": "https://techsauce.co/ai/openai-control-room-emergency-stop-ai-research",
+   "published": "2026-11-14T14:26:14+00:00",
+   "summary": "35 วินาที คือเวลาสูงสุดที่ OpenAI ใช้หยุด AI ที่กำลังทำงานอยู่ในห้องวิจัยของบริษัท นับจากวินาทีที่ตัดสินใจว่าต้องหยุด ตัวเลขนี้มาจาก Control Room ระบบใหม่ที่ OpenAI เพิ่งเปิดเผย ซึ่งทำหน้าที่คล้าย 'ปุ่มหยุดฉุกเฉินกลางที่คุมงาน AI ทุกชิ้นในระบบวิจัยได้จากจุดเดียว' งานที่ Control Room ดูแลครอบคลุมทุกงานวิจัยที่ต้องให้โมเดลสร้างคำตอบ ตั้งแต่การเทรนโมเดล การทดสอบความสามารถ ไปจนถึงงานประมวลผลข้อมูล โดยระบบทำงานคู่กับระบบเฝ้าระวังพฤติกรรมเบี่ยงเบน (Misalignment Monitoring) ซึ่งคอยจับตาว่า AI ทำอะไรออกนอกเป้าหมายที่มนุษย์ตั้งไว้หรือไม่ นอกจากนี้ OpenAI ยังออกแบบให้ Control Room ทำงานต่อได้แม้ระบบอื่นล้มเหลว และถ้าตัว Control Room เองล่ม AI ทั้งหมดจะหยุดตอบทันที OpenAI อธิบายว่าเมื่อโมเดลเก่งขึ้น ความเสี่ยงด้านความปลอดภัยก็ใหญ่ขึ้นตาม ความสามารถในการตรวจจับปัญหาและหยุดโมเดลได้ทันทีจึงสำคัญขึ้นเรื่อย ๆ และเหตุการณ์ในห้องวิจัยของ OpenAI เองตลอดหลายเดือนที่ผ่านมาก็แสดงให้เห็นว่าเรื่องนี้ไม่ใช่สถานการณ์สมมติ เมื่อ AI ในห้องวิจัยเริ่มทำเกินคำสั่ง เหตุการณ์ที่ทำให้เรื่องนี้ถูกจับตามากที่สุดคือกรณี Hugging Face ซึ่ง OpenAI เปิดรายงานฉบับเต็มเมื่อเดือนสิงหาคม ระหว่างการทดสอบความสามารถด้านความปลอดภัยไซเบอร์เมื่อเดือนกรกฎาคม เอเจนต์ AI (AI Agent) ที่ขับเคลื่อนด้วยโมเดลวิจัยซึ่งใช้งานเฉพาะภายในบริษัท"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Nvidia Looks for a New Era After Huang",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+   "published": "2026-11-14T14:25:34+00:00",
+   "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Couples Are Bringing AI Into Their Arguments",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
+   "published": "2026-11-14T13:57:52+00:00",
+   "summary": "Bloomberg Weekend senior writer Morgan Meaker tells Bloomberg This Weekend how people are increasingly turning to AI chatbots for advice, validation and even mediation during arguments with their partners. Speaking with hosts David Gura and Christina Ruffini, Meaker explores when AI can improve communication and when introducing a digital “third entity” risks creating distance between couples. (Source: Bloomberg)"
+  },
+  {
+   "source": "Techsauce",
+   "title": "ศ. ดร. ยศชนัน ชี้ยุคที่ AI รู้ทุกอย่าง คนเก่งต้อง ‘รวมศาสตร์’ ไม่ใช่เป็น ‘เป็ด’",
+   "url": "https://techsauce.co/ai/thailand-tech-talent-connect-2026-invest-in-people",
+   "published": "2026-11-14T13:28:26+00:00",
+   "summary": "ประเทศควรปั้นคนเก่งด้านเทคโนโลยีให้มีหน้าตาแบบไหน หากยังไม่มีใครรู้ว่าอุตสาหกรรมใหม่ของวันพรุ่งนี้จะเป็นอย่างไร คำถามนี้คือโจทย์ที่ ศ.ดร.ยศชนัน วงศ์สวัสดิ์ รองนายกรัฐมนตรี และรัฐมนตรีว่าการกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (อว.) ยอมรับว่าตนเองก็ยังมองไม่เห็นคำตอบ เพราะ AI ทำให้ทุกอย่างเปลี่ยนได้ทุกวัน ขณะที่ไทยไม่ได้เป็นผู้กำหนดทิศทางเทคโนโลยี แต่เป็นฝ่ายรอดูว่ายุโรป ญี่ปุ่น และจีนจะออกอะไรมา ศ.ดร.ยศชนันตั้งโจทย์ดังกล่าวระหว่างกล่าวเปิดงานและปาฐกถาพิเศษบนเวที Thailand Tech Talent Connect 2026 ก่อนเสนอว่าทางออกไม่ใช่การเดาอุตสาหกรรมแห่งอนาคตให้ถูก แต่คือการสร้างคนที่คิดอุตสาหกรรมใหม่ขึ้นมาเองได้ เพราะเมื่อประเทศ ‘ลงทุนที่คน คนจะสร้างเศรษฐกิจให้’ พร้อมขอความร่วมมือจากผู้ร่วมงานใน 3 เรื่อง ได้แก่ เทคโนโลยีใหม่ การปั้นคนเก่ง (Talent) และการสร้างเศรษฐกิจ ยุคทองไม่ได้เกิดที่ไทย คนไทยจึงต้องขยับจากผู้หางานเป็นผู้สร้างงาน เหตุที่คำถามข้างต้นตอบยาก เป็นเพราะภาพของคนเก่งในแต่ละยุคถูกกำหนดโดยประเทศที่สร้างยุคทองของตัวเองขึ้นมา ศ.ดร.ยศชนันอธิบายว่าการปฏิวัติอุตสาหกรรมในอังกฤษทำให้คนอยากเป็นวิศวกร เมื่อสหรัฐอเมริกามี Silicon Valley อุตสาหกรรมเซมิคอนดักเตอร์ (Semiconductor) และคอมพิวเตอร์ ภาพของคนเก่งก็เปลี่ยนไปอีกแบบ ส่วนการเติบโตของญี่ปุ่นและจีนก็ดึงคนเข้าสู่เทคโนโลยีดิจิทัล การ"
+  },
+  {
+   "source": "Wired",
+   "title": "Beware the New AI-Fueled Ransomware Boom",
+   "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+   "published": "2026-11-14T13:00:00+00:00",
+   "summary": "Welcome to Kernel Panic , a weekly newsletter by Lily Hay Newman and Matt Burgess from inside the new world of privacy and digital security. To receive this newsletter in your inbox each week, sign up here . With so much going on all the time, you may not have thought about ransomware and data extortion attacks in a minute, even though they’ve been among the the biggest cybersecurity threats to institutions—and, by extension, people—over the past decade. But in the new era of AI-powered and automated cyberattacks, the danger posed by ransomware is only increasing as cybercriminals profit by combining established methods with new techniques made possible or more accessible by AI. It is difficult to determine exact numbers of ransomware attacks, given that victims don’t always disclose incidents and attackers wildly inflate their claims. But researchers who specialize in tracking and attempting to de-duplicate the field agree that claimed incidents have spiked over the last few months. Some put the number of alleged ransomware attacks on leak sites—where groups post alleged victims—at nearly 3,000 attacks over the summer. This would mean a 20 to 40 percent increase since the spring b"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+   "published": "2026-11-14T13:00:00+00:00",
+   "summary": "Tech giants chasing the infinite promise of AI are finding themselves increasingly on the hook for something far earthier — the electrical grid. A Democratic sweep will only intensify that."
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+   "published": "2026-11-14T12:47:31+00:00",
+   "summary": "Bloomberg senior technology and strategic industries editor Mike Shepard tells Bloomberg This Weekend that Nvidia’s appointment of longtime CFO Colette Kress as interim CEO may offer investors some stability after Jensen Huang’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Shepard examines how Nvidia moves beyond a leader who defined the company for more than three decades and whether the upheaval creates an opening for AI chip rivals. (Source: Bloomberg)"
+  },
+  {
+   "source": "Prachachat",
+   "title": "ปิดฉากสัมมนาหอการค้าฯ เชียงราย ส่งสมุดปกขาว ชง 6 แนวทางสร้าง New Growth",
+   "url": "https://www.prachachat.net/economic/local-economy/news-2096678",
+   "published": "2026-11-14T11:02:42+00:00",
+   "summary": "ปิดฉากสัมมนาหอการค้าทั่วประเทศ ครั้งที่ 44 จ.เชียงราย หอการค้าไทยส่งมอบ ‘สมุดปกขาว‘ ถึงรัฐบาล รวม 6 ข้อเสนอเชิงนโยบาย เร่งลดต้นทุน ปรับโครงสร้างเศรษฐกิจ ปั้น 7 เครื่องยนต์ใหม่ ยกระดับเกษตร-อาหารไทย-การค้า จี้แก้คอร์รัปชัน พร้อมกระจายโอกาสเติบโตสู่ 5 ภูมิภาค ดันเศรษฐกิจไทยโตไม่ต่ำกว่า 3% ต่อปี ดร.พจน์ อร่ามวัฒนานนท์ ประธานกรรมการหอการค้าไทยและสภาหอการค้าแห่งประเทศไทย เปิดเผยว่า งานสัมมนาหอการค้าทั่วประเทศ ครั้งที่ 44 ภายใต้แนวคิด “Unlocking New Growth: ศักยภาพใหม่แห่งการเติบโต” ระหว่างวันที่ 13–14 พฤศจิกายน 2569 ณ จังหวัดเชียงราย ปิดฉากลงพร้อมสรุปผลการสัมมนาและส่งมอบ “สมุดปกขาว หอการค้าไทย ปี 2569”ต่อรัฐบาล โดยมี นายปกรณ์ นิลประพันธ์ รองนายกรัฐมนตรี เป็นผู้แทน นายกรัฐมนตรี รับมอบ ซึ่งรวบรวมข้อเสนอเชิงนโยบายจากภาคเอกเชนทั้งส่วนกลางและ 5 ภูมิภาค เพื่อเร่งแก้ไขข้อจำกัดเชิงโครงสร้าง ยกระดับขีดความสามารถในการแข่งขัน และสร้างเครื่องยนต์เศรษฐกิจใหม่ ดร.พจน์ กล่าวว่า เศรษฐกิจไทยกำลังอยู่ในช่วงหัวเลี้ยวหัวต่อสำคัญ โดยปี 2569 คาดว่าจะขยายตัวเพียง 2.4–2.6% ขณะที่ศักยภาพการเติบโตระยะยาวมีแนวโน้มลดลงจากปัญหาเชิงโครงสร้าง ทั้งสังคมสูงวัย หนี้ครัวเรือนที่อยู่ในระดับสูง และผลิตภาพที่ขยายตัวช้า อย่างไรก็ตาม ประเทศไทยยังมีโอกาสจากการลงทุนใหม่ ซึ่งจำเป็นต้องเร่งผลักดันให้เกิดการลงทุนจริง และเชื่อมโยงป"
+  },
+  {
+   "source": "Wired",
+   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+   "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+   "published": "2026-11-14T11:00:00+00:00",
+   "summary": "On September 27, US transportation secretary Sean Duffy posted a video on X with the words “GAME CHANGER.” “Introducing ‘SMART’—the new air traffic management tool that saves YOU time, cuts back DELAYS, and makes your flying experience BETTER,” he wrote. This was a new AI-infused air traffic control system. Almost three weeks later, that post would get a new life, as a nervous joke, as the FAA issued a national groundstop on Friday the 13th that instantly threw the world’s airline schedules into chaos. The administration quickly announced that there was no evidence of a cyberattack, and no sign that SMART had anything to do with the communications failure at the heart of the government’s decision to suspend flights. But when asked on Friday night whether he could definitively rule out AI failure, Homeland Security secretary Markwayne Mullin could only say, “There’s nothing certain right now.” New systems like SMART are only the tip of the iceberg when it comes to the AI aviation revolution currently underway. Take, for instance, the Cessna Caravan that took off from Buchanan Field Airport in Concord, California, and flew south to Phoenix on a calm September morning. The plane, a si"
+  },
+  {
+   "source": "Prachachat",
+   "title": "สำรวจ SX2026 นวัตกรรมความยั่งยืนที่จับต้องได้",
+   "url": "https://www.prachachat.net/sd/news-2095867",
+   "published": "2026-11-14T09:35:37+00:00",
+   "summary": "ผู้เขียน : สินนภา ดีเลิศพัฒนา โซน Human Living in Harmony with Technology ในงาน SX2026 เป็นโซนที่ผู้เข้าชมแทบทุกคนต้องเดินผ่าน และเป็นพื้นที่ที่สตาร์ตอัพจำนวนมากมารวมตัวกันอยู่ในจุดเดียว ทำให้บรรยากาศคึกคักแต่ก็หลากหลายจนต้องเลือกหยุดเลือกฟัง โดยผู้เล่าเรื่องมีทั้งสตาร์ตอัพหน้าใหม่ องค์กรขนาดใหญ่ และนักเรียนผู้ริเริ่มโครงงาน สลับกันไปตลอดทางทั้งฮอลล์ เริ่มที่บูทสีเหลืองสดใสของ Canarie เป็นจุดแรกที่ดึงสายตา สตาร์ตอัพรายนี้ถือกำเนิดจาก CMKL University มหาวิทยาลัยด้าน AI ที่เกิดจากความร่วมมือกับ Carnegie Mellon University โดยนำเสนอ Canarie Prep เครื่องมือฝึกสอบ IELTS และ SAT ด้วย AI ที่มีระบบตรวจงานอัตโนมัติ แผนพัฒนารายบุคคล และกราฟติดตามความก้าวหน้า ฝึกได้ทุกที่ทุกเวลา ขณะนี้เปิดให้นักเรียนมัธยมปลายที่ตั้งใจเรียนต่อมหาวิทยาลัยนานาชาติหรือต่างประเทศใช้ฟรีในส่วนของ SAT ผู้ก่อตั้งบอกว่า หลายโรงเรียนมองว่า AI จะมาแทนครู แต่ทีมมองต่างออกไป อนาคตของการศึกษาคือ AI บวกกับครู ครูเป็นผู้แนะแนว ส่วน AI รับงานที่กินเวลาโดยไม่ได้เพิ่มคุณภาพการสอน เช่น การตรวจงานและงานเอกสาร สิ่งที่ทำให้บูทนี้ดูสนุก คือ เกมจับเวลาให้ใกล้ 3 วินาทีที่สุด เมื่อหยุดเวลาเกมจะแสดงว่าในเสี้ยววินาทีที่คลาดเคลื่อนนั้นศูนย์ข้อมูลใช้ไฟและน้ำไปเท่าใด ซึ่งการสอบถาม AI อาจใช้พลังงานมากกว่าการค้นหาพื้นฐานถึง 10 เท่า และเทียบให้เ"
+  },
+  {
+   "source": "Prachachat",
+   "title": "‘ปกรณ์’ ชงรื้อกฎหมายเก่า ชู 4 แนวคิดปลดล็อกธุรกิจไทย",
+   "url": "https://www.prachachat.net/economic/local-economy/news-2096654",
+   "published": "2026-11-14T09:23:24+00:00",
+   "summary": "‘รองนายกฯ ปกรณ์’ ปาฐกถาในงานสัมมนาหอการค้าทั่วประเทศ ครั้งที่ 44 ชูแนวคิดปรับกฎหมายและกฎระเบียบรัฐให้ทันโลกเปลี่ยน ผ่าน 4 แนวทาง ทบทวนกฎหมายล้าสมัย ลดขั้นตอนและต้นทุนธุรกิจ ดัน Digital Government เพิ่มความโปร่งใส เปิดทางเอกชนร่วมชี้ปัญหา หวังปลดล็อกข้อจำกัด เสริมขีดความสามารถแข่งขันการลงทุนระดับประเทศ นายปกรณ์ นิลประพันธ์ รองนายกรัฐมนตรี ปาฐกถาพิเศษ ในงานสัมมนาหอการค้าทั่วประเทศ ครั้งที่ 44 “Unlocking New Growth: ศักยภาพใหม่แห่งการเติบโต” ในหัวข้อ “ปลดล็อกกฎหมายและกฎระเบียบเพื่อสร้างความเข้มแข็งภาดธุรกิจไทย” ณ หอประชุมมหาวิทยาลัยราชภัฏเชียงราย จังหวัดเชียงราย รองนายกฯ ปกรณ์ ระบุว่า การปรับปรุงกฎหมายและกฏระเบียบให้สอดดคล้องกับบริบทโลกที่เปลี่ยนแปลงรวดเร็ว ทั้งภูมิรัฐศาสตร์ ภูมิเศรษฐศาสตร์ เทคโนโลยี AI โครงสร้างสังคม และรูปแบการค้า โดยชี้ว่า กฎหมายไม่ควรเป็นเพียงเครื่องมือควบคุม แต่ต้องเปลี่ยนจากแนวคิด Control ไปสู่ Deregulation, Better Regulations และ Better Regulations for Better Life เพื่อให้กติกาของรัฐเอื้อต่อการดำเนินชีวิต การลงทุน และการเติบโดของภาคธุรกิจมากขึ้น โลกปัจจุบันมีความซับซ้อนมากขึ้น ทั้งการแข่งขันทางภูมิรัฐศาสตร์ การกลับมาของมาตรการกีดกันทางการค้า ความท้าทายด้านสิ่งแวดล้อม เทคโนโลยี และสังคมสูงวัย ทำให้กฎหมายที่เคยเหมาะสมในอดีตอาจไม่ตอบโจทย์สถานการณ์ใหม่ หากรัฐยังใช้"
+  },
+  {
+   "source": "Prachachat",
+   "title": "‘ศุภจี’ จ่อเปิดโต๊ะ JC ไทย-จีน ต้นปี’70 ดันทุนจีนใช้วัตถุดิบ-ชิ้นส่วนไทย",
+   "url": "https://www.prachachat.net/economic/news-2096641",
+   "published": "2026-11-14T08:01:12+00:00",
+   "summary": "รมว.พาณิชย์ ชู Co-Creation ยกระดับความสัมพันธ์ไทย-จีน จากคู่ค้าสู่หุ้นส่วนร่วมสร้างเศรษฐกิจ ดึงเทคโนโลยีจีนเชื่อมฐานการผลิตและวัตถุดิบไทย หนุน SMEs เข้าห่วงโซ่อุปทานโลก พร้อมผลักดันประชุมคณะกรรมการร่วมไทย-จีนต้นปี 2570 ด้าน ‘อนุทิน’ ชวนจีนลงทุนอุตสาหกรรมอนาคต ดาต้าเซ็นเตอร์-เซมิคอนดักเตอร์-AI ต่อยอด EV และเกษตรอาหาร นางศุภจี สุธรรมพันธุ์ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงพาณิชย์ เปิดเผยภายหลังเข้าร่วมการประชุมโต๊ะกลมทางธุรกิจไทย-จีน (Thailand-China Business Roundtable) ณ โรงแรมแมนดาริน โอเรียนเต็ล กรุงเทพฯ ว่า กระทรวงพาณิชย์เตรียมผลักดันความร่วมมือทางเศรษฐกิจระหว่างไทยกับจีนภายใต้แนวคิด Co-Creation หรือการร่วมคิด ร่วมพัฒนา และร่วมสร้าง โดยมุ่งยกระดับความสัมพันธ์จากการเป็นคู่ค้าสำคัญไปสู่การเป็นหุ้นส่วนทางเศรษฐกิจที่สามารถร่วมลงทุน พัฒนานวัตกรรม และสร้างมูลค่าเพิ่มให้กับทั้งสองประเทศ ทั้งนี้ จีนเป็นคู่ค้าอันดับ 1 ของไทยต่อเนื่องมา 13 ปี โดยการประชุมครั้งนี้มีนายอนุทิน ชาญวีรกูล นายกรัฐมนตรี และนายหลี่ เฉียง นายกรัฐมนตรีจีน เป็นประธานร่วม พร้อมด้วยนายหวัง เหวินเทา รัฐมนตรีว่าการกระทรวงพาณิชย์จีน และผู้บริหารภาครัฐและภาคธุรกิจชั้นนำของทั้งสองประเทศเข้าร่วม เพื่อขยายความร่วมมือด้านการค้า การลงทุน และการเชื่อมโยงห่วงโซ่อุปทานให้เกิดผลเป็นรูปธรรม นางศุภจี กล่าวว่า กระทรวงพาณิชย์ให้ค"
+  },
+  {
+   "source": "Prachachat",
+   "title": "SAMART โชว์ 9เดือน ปี 2569 กำไร 439ล้านบาท",
+   "url": "https://www.prachachat.net/tech/news-2096638",
+   "published": "2026-11-14T07:58:21+00:00",
+   "summary": "กลุ่ม SAMART โชว์ กำไร 9 เดือนแรกปี 2569 โต 42% แตะ 430 ล้าน Backlog 15,452 ล้านบาท ตั้งเป้าสิ้นปีแตะ 20,000 ล้าน นายวัฒน์ชัย วิไลลักษณ์ รองประธานกรรมการบริหาร ฝ่ายกลยุทธ์องค์กร และพัฒนาธุรกิจใหม่ บริษัท สามารถคอร์ปอเรชั่น จำกัด (มหาชน) เปิดเผยว่า “ผลการดำเนินงาน 9 เดือนแรกปี 2569 สะท้อนทิศทางธุรกิจที่ยังเติบโตได้อย่างต่อเนื่อง โดยมีรายได้รวม 8,547 ล้านบาท เพิ่มขึ้น 9% และกำไร 430 ล้านบาท เพิ่มขึ้น 42% เมื่อเทียบกับช่วงเดียวกันของปีก่อน ขณะที่ผลประกอบการเฉพาะไตรมาส 3 มีรายได้ 2,870 ล้านบาท เพิ่มขึ้น 13% และกำไร 151 ล้านบาท เพิ่มขึ้นถึง 73%การเติบโตดังกล่าวเป็นผลจากการทยอยส่งมอบและรับรู้รายได้จากโครงการต่าง ๆ ควบคู่กับการบริหารต้นทุนและประสิทธิภาพการดำเนินงาน เพื่อรักษาความสามารถในการทำกำไร การบริหารงานตามแผน และการสร้างความต่อเนื่องของรายได้ในระยะยาว อีกหนึ่งปัจจัยสำคัญที่สะท้อนการเติบโตของกลุ่มบริษัท คือ Backlog รวม ณ สิ้นไตรมาส 3 ที่เพิ่มขึ้นเป็น 15,452 ล้านบาท โดยเฉพาะในไตรมาส 3 สามารถลงนามโครงการใหม่ได้รวมกว่า 2,900 ล้านบาท ซึ่งจะเป็นฐานสำคัญในการทยอยรับรู้รายได้ในระยะต่อไป ขณะเดียวกัน กลุ่มบริษัทยังอยู่ระหว่างเตรียมเข้าร่วมประมูลโครงการใหม่มูลค่ารวมกว่า 10,000 ล้านบาทในช่วง 6 เดือนข้างหน้า ครอบคลุมงานด้าน Digital ICT ระบบสื่อสารและโครงสร้างพื้นฐาน ระบบรักษาความปลอดภัย และโซลูช"
+  },
+  {
+   "source": "Prachachat",
+   "title": "SeaX Ventures ลงทุน Skribe สตาร์ตอัพ MedTech หัวใจ-มะเร็ง ดึงทดสอบในไทย-อาเซียน",
+   "url": "https://www.prachachat.net/biz-movement/news-2096633",
+   "published": "2026-11-14T07:51:39+00:00",
+   "summary": "กองทุนไทย SeaX Ventures ลุยลงทุนใน Skribe Medical สตาร์ทอัพ MedTech พัฒนา Wearable ตรวจหัวใจด้วย AI ดึงทดสอบทางคลินิกในไทย ขยายผลในอาเซียน รายงานข่าวจาก SeaX Ventures กองทุน Venture Capital สัญชาติไทยที่ลงทุนในสตาร์ทอัพเทคโนโลยีขั้นสูงทั่วโลก (Deep Tech) ได้ประกาศการลงทุนใน Skribe Medical สตาร์ทอัพ MedTech จากสหรัฐอเมริกา ในฐานะ Lead Investor รอบ Pre-Seed มูลค่า 55 ล้านบาท ร่วมกับ GoAhead Ventures และ Marin Sonoma Impact Ventures เพื่อสนับสนุนการพัฒนา Aurora เทคโนโลยี Wearable ที่ใช้ AI ช่วยประเมินการทำงานของหัวใจในผู้ป่วยมะเร็ง โดยล่าสุดได้รับคัดเลือกให้เข้าร่วมโครงการ READI-Home Innovation Challenge ของสำนักงานคณะกรรมการอาหารและยาสหรัฐอเมริกา (US-FDA) พร้อมเดินหน้าการศึกษาทางคลินิกที่มีผู้ป่วยเข้าร่วมแล้วกว่า 700 ราย หนึ่งในความท้าทายสำคัญของการรักษามะเร็ง คือผลข้างเคียงจากยาหรือการรักษาบางประเภทที่อาจส่งผลกระทบต่อการทำงานของหัวใจ ทำให้ผู้ป่วยต้องได้รับการตรวจติดตามอย่างต่อเนื่อง โดยปัจจุบันแพทย์มักใช้วิธีตรวจหัวใจด้วยคลื่นเสียงความถี่สูง (Echocardiography) ซึ่งต้องอาศัยเครื่องมือเฉพาะทางและบุคลากรที่มีความเชี่ยวชาญ ผู้ป่วยจึงอาจต้องเข้ารับการตรวจเพิ่มเติมนอกเหนือจากนัดหมายรักษามะเร็ง ส่งผลให้กระบวนการรักษามีความซับซ้อนและบ่อยครั้งเกิดความล่าช้าระหว่างรอนัดหมายแพทย์ Skribe Medica"
+  },
+  {
+   "source": "Prachachat",
+   "title": "เวทีโต๊ะกลมไทย-จีน นายกฯ ประกาศเร่ง ACFTA 3.0 ล็อกเป้าเปิดรถไฟความเร็วสูงเฟสแรกปี 73",
+   "url": "https://www.prachachat.net/politics/news-2096592",
+   "published": "2026-11-14T06:07:20+00:00",
+   "summary": "นายกฯ เปิดเวทีโต๊ะกลมธุรกิจไทย-จีน ร่วมนายกฯ ‘หลี่ เฉียง’ ประกาศเร่งรัด ACFTA 3.0 ล็อกเป้าเปิดรถไฟความเร็วสูงเฟสแรกปี 2573 โชว์ยอดจีนขอ BOI 9 เดือนเฉียด 500 โครงการ ดัน ‘Thailand Fast pass-Super License’ ปลดล็อกลงทุน Data Center-เซมิคอนดักเตอร์-AI” นายอนุทิน ชาญวีรกูล นายกรัฐมนตรี และรัฐมนตรีว่าการกระทรวงมหาดไทย กล่าวเปิดการประชุมโต๊ะกลมทางธุรกิจไทย–จีน (Thailand–China Business Roundtable) ร่วมกับ นายหลี่ เฉียง นายกรัฐมนตรีสาธารณรัฐประชาชนจีน ซึ่งเดินทางเยือนไทยอย่างเป็นทางการในฐานะแขกของรัฐบาล โดยมีรองนายกฯ หัวหน้าหน่วยงานภาครัฐ และผู้นำภาคธุรกิจชั้นนำของไทยและจีน เข้าร่วมประชุม กว่า 200 คน นายอนุทิน กล่าวว่า รัฐบาลไทยจะร่วมมือกับจีนในทุกมิติตามแนวคิดร่วมกันสร้างเพื่อยกระดับความสัมพันธ์จากคู่ค้าเป็นหุ้นส่วนที่ร่วมคิดและร่วมลงทุน พร้อมผลักดันความตกลงการค้าเสรีอาเซียน–จีน (ACFTA 3.0) ให้มีผลใช้บังคับโดยเร็ว เดินหน้าโครงการรถไฟความเร็วสูงไทย–จีน ในระยะแรกให้สามารถเปิดให้บริการภายในปี 2573 และยังเชิญชวนนักลงทุนจากจีนเข้ามาลงทุนในอุตสาหกรรมเป้าหมายในไทยเพิ่มขึ้น “การประชุมครั้งนี้ไม่ได้มีไว้เพียงตอกย้ำความสัมพันธ์อันดีระหว่างไทยกับจีน แต่จะหารือกันว่าทั้งสองประเทศจะใช้ความสัมพันธ์นี้สร้างประโยชน์ที่จับต้องได้ต่อเศรษฐกิจและประชาชนอย่างไร เพราะทั้งไทยและจีนต่างเผชิญโจทย์เดียวกัน ทั้งเรื่"
+  },
+  {
+   "source": "Prachachat",
+   "title": "อย่าปล่อยให้ AI กำชะตา เปลี่ยนคน เปลี่ยนองค์กร ก่อนโลกเปลี่ยน",
+   "url": "https://www.prachachat.net/tech/news-2096014",
+   "published": "2026-11-14T06:05:00+00:00",
+   "summary": "“ประชาชาติธุรกิจ” จัดสัมมนา THAILAND 2027 : ปรับ เปลี่ยน ไปต่อ EP.2 “กานติมา เลอเลิศยุติธรรม” รองประธานเจ้าหน้าที่บริหารด้านธุรกิจองค์กร บมจ.แอดวานซ์ อินโฟร์ เซอร์วิส (AIS) แชร์ประสบการณ์ตรงเรื่องคน กับ AI โลกแยกคน 2 กลุ่ม …คนในตลาดแรงงาน มักรอชะตากรรม ทั้งโอกาสการเติบโต และเรียนรู้จะรอคนอื่นยื่นให้ แต่เมื่อ AI เข้ามาดิสรัปต์ การรอก็ไม่ทันแล้ว โลกแยกคนเป็น 2 กลุ่ม คือกลุ่มที่ไปต่อได้ อีกกลุ่มจะถูกทิ้งไว้ข้างหลัง วันนี้จึงเป็นโอกาสที่เราต้องลุกขึ้นมากำชะตาตัวเอง ที่น่าห่วงสุดคือ กลุ่มผู้บริหาร เพราะบางครั้งมองตัวเองว่าเก่งแล้ว จึงไม่เปิดรับการเรียนรู้เพิ่ม แนวคิดในอดีตที่ทำแบบเดิมๆ แล้วประสบความสำเร็จเอง ใช้ไม่ได้ในยุค AI ทุกคนต้องกำหนดชะตาตัวเอง ผู้บริหารต้องยอมรับว่า มักพยายามให้คนรุ่นใหม่ปรับตัวเข้าหา เพราะผู้บริหารเป็นผู้ควบคุมภาพขององค์กรทั้งหมด แต่วันนี้โลกเปิดกว้าง คู่แข่งไม่ได้มีแค่ผู้เล่นในตลาดไทยอีกต่อไป ถ้ากลัว AI แทนที่ คำถามแรกคือ ไม่ยอมทิ้งคอมฟอร์ตโซนเดิม และมีความสุขอยู่กับความสำเร็จในอดีตหรือไม่ ความสำเร็จที่ว่า อาจกลายเป็นกำแพงที่ทำให้ผู้บริหารเดินต่อไปไม่ได้ คำถามที่ 2 สามารถหยิบคนรุ่นใหม่ที่มีสกิลที่เราไม่มี มาร่วมงานได้หรือไม่ ซึ่งเป็นจุดตายที่ผู้บริหารต้องเลือก แม้คนรุ่นใหม่จะโตมากับเทคโนโลยี แต่ถ้าให้ใช้เครื่องมือเดียวกันกับผู้ใหญ่ ผลลัพธ์ก็ไม่เหมือนกัน เพราะขึ"
+  },
+  {
+   "source": "Prachachat",
+   "title": "เปิดมุมมอง ‘ปรับ-เปลี่ยน-ไปต่อ’",
+   "url": "https://www.prachachat.net/hilight-prachachat/news-2096048",
+   "published": "2026-11-14T05:30:00+00:00",
+   "summary": "บทบรรณาธิการ มีความน่าสนใจไม่น้อยกับปาฐกถาพิเศษของผู้ทรงคุณวุฒิทั้งภาครัฐและเอกชน ในงานสัมมนาประชาชาติธุรกิจ “Thailand 2027 #ปรับ-เปลี่ยน-ไปต่อ EP.2” หัวข้อ “เศรษฐกิจไทย : เปลี่ยนให้ผ่าน-เพื่อไปต่อ” มีผู้เชี่ยวชาญด้านเศรษฐกิจ และธุรกิจหลายท่านร่วมขึ้นเวที เปิดมุมมองเศรษฐกิจโลกและประเทศไทยในปีหน้า ว่ามีวิกฤตหรือโอกาสใดรออยู่เพื่อให้ทุกฝ่ายเตรียมรับมือ หรือหาจังหวะดี ๆ เพื่อการลงทุน ดร.สันติธาร เสถียรไทย กรรมการผู้ช่วยรัฐมนตรีประจำกระทรวงการคลัง มองในภาคส่วนความเปราะบางว่าช่องว่างทางนโยบายและการคลังบางลง ทำให้อุ้มครัวเรือนและธุรกิจได้ลดลง หนี้ของภาครัฐโลกอาจเกิน 100% ของจีดีพี ภายในปี 2029 ซึ่งเร็วขึ้นกว่าที่เคยคาดการณ์ไว้กว่า 2 ปี ขณะที่ไทยมีพื้นที่ทางการคลังน้อยลง แม้สถานะยังเข้มแข็งกว่าหลายประเทศ แต่ไม่ควรประมาท นอกจากนี้ยังมีวิกฤตพลังงานที่ยังไม่จบ ดอกเบี้ยขาขึ้นกำลังมา ทั้งดอกเบี้ยนโยบายสหรัฐก็มีแนวโน้มปรับขึ้น และดอกเบี้ยพันธบัตรรัฐบาลที่สูง ทำให้การกู้ยืมเงินของหลายรัฐบาลยากขึ้น โดยไทยได้รับผลกระทบจากพายุพลังงานสูงมาก แต่การเปลี่ยนแปลงของดอกเบี้ยของไทยนั้นขยับตัวน้อยเมื่อเทียบกับสหรัฐ ดังนั้นพื้นที่ทางการคลังของไทยยังพอมี และการช่วยเหลือประชาชนต้องเป็นไปอย่างเฉพาะจุด จุดที่น่าห่วงของไทยซึ่งพูดกันมาตลอดปีคือการเติบโตแบบ “K-shape” ที่มีกลุ่มได้ประโยชน์เพียงบางส่วน โดยเฉพาะการเข้"
+  },
+  {
+   "source": "The Standard",
+   "title": "Nvidia ทาบทาม เรเน ฮาส CEO ของ Arm ขณะที่พนักงานบางส่วนเรียกร้องให้ เจนเซน หวง กลับมาบริหารบริษัท",
+   "url": "https://thestandard.co/nvidia-approaches-arm-ceo-rene-haas/",
+   "published": "2026-11-14T04:02:04+00:00",
+   "summary": "คณะกรรมการ Nvidia ได้ทาบทาม เรเน ฮาส (Rene Haas) ประธานเจ้าหน้าที่บริหาร (CEO) ของ Arm บริษัทออกแบบชิปสัญชาติอังกฤษ ให้พิจารณารับตำแหน่งต่อจาก เจนเซน หวง (Jensen Huang) หลังลาออกจากตำแหน่งเมื่อวันที่ 12 พฤศจิกายน จากกรณีข่าวฉาวความสัมพันธ์นอกสมรส และข้องเกี่ยวกับหญิงที่หน่วยข่าวกรองสหรัฐอเมริกา สงสัยว่าเป็นสายลับจีน เมื่อวันที่ 13 พฤศจิกายน ตามเวลาท้องถิ่น Financial Times เปิดเผยรายชื่อแคนดิเดต CEO คนใหม่ของ Nvidia โดยรายงานว่า คณะกรรมการบริหารได้ทาบทามฮาสรับตำแหน่งต่อจากหวง ถือเป็นหนึ่งในผู้สมัครที่ได้รับการพิจารณา ขณะที่ยังไม่มีความชัดเจนว่า เขาจะยอมรับตำแหน่งดังกล่าวหรือไม่ ส่วนบริษัทยังไม่ได้ติดต่อผู้สมัครคนใดอย่างเป็นทางการ สำหรับรายชื่อแคนดิเดต CEO เบื้องต้น นักวิเคราะห์คาดว่า มีผู้บริหารอีกหลายคนที่อาจได้รับการพิจารณาให้ดำรงตำแหน่ง CEO คนใหม่ ได้แก่ ลิซา ซู (Lisa Su) CEO ของ AMD, ซันเจย์ เมห์โรตรา (Sanjay Mehrotra) CEO ของ Micron, แมตต์ เมอร์ฟี (Matt Murphy) CEO ของ Marvell และ จอห์นนี สรูจิ (Johny Srouji) ผู้บริหารฝ่ายฮาร์ดแวร์ของ Apple ส่วนผู้บริหารภายใน Nvidia ที่ถูกจับตามอง ได้แก่ โคเล็ตต์ เครสส์ (Colette Kress) ประธานเจ้าหน้าที่ฝ่ายการเงิน ซึ่งปัจจุบันดำรงตำแหน่ง CEO ชั่วคราว และ เอียน บัก (Ian Buck) วิศวกรอาวุโสผู้มีบทบาทสำคัญในการพัฒนาแพลตฟอร์ม CUDA ซึ่งใช้ขับเคลื่อนก"
+  },
+  {
+   "source": "The Standard",
+   "title": "ถอดบทเรียน Microsoft ล่ม ธุรกิจเป็นอัมพาต ผู้เชี่ยวชาญชี้จุดอ่อนพึ่งพารายเดียว หวั่นเปิดช่องมิจฉาชีพสวมรอย",
+   "url": "https://thestandard.co/microsoft-outage-global-business-disruption/",
+   "published": "2026-11-14T02:36:56+00:00",
+   "summary": "Microsoft ยักษ์ใหญ่ด้านเทคโนโลยีของสหรัฐฯ เปิดเผยเมื่อวันศุกร์ที่ 13 พฤศจิกายนที่ผ่านมาว่า บริษัทได้ดำเนินการแก้ไขสาเหตุหลักของความขัดข้องทางเทคนิคที่สร้างความปั่นป่วนให้แก่ภาคธุรกิจและหน่วยงานภาครัฐทั่วโลกเรียบร้อยแล้ว และบริการต่างๆ กำลังอยู่ในช่วงฟื้นตัวในวงกว้าง ประเด็นสำคัญ บทเรียนระบบล่มสะเทือนธุรกิจทั่วโลก ผลกระทบวงกว้าง รัฐบาล-เอกชนปั่นป่วน สหราชอาณาจักร-ญี่ปุ่น งัดแผนสำรองสู้ระบบล่ม นักวิชาการชี้จุดอ่อนพึ่งพารายเดียว-เตือนภัยมิจฉาชีพซ้ำเติม บทเรียนระบบล่มสะเทือนธุรกิจทั่วโลก เหตุการณ์ระบบขัดข้องครั้งนี้ยืดเยื้อเข้าสู่วันที่สองนับตั้งแต่เริ่มเกิดปัญหาขึ้นเมื่อวันพฤหัสบดีที่ผ่านมา ส่งผลให้ผู้ใช้งานจำนวนมหาศาลไม่สามารถรับหรือส่งอีเมลผ่าน Outlook ได้ นอกจากนี้ ปัญหายังลุกลามไปยังแพลตฟอร์มการสื่อสารอย่าง Microsoft Teams ผู้ช่วยปัญญาประดิษฐ์ Copilot ตลอดจนบริการอื่นๆ ในชุด Microsoft 365 อีกด้วย นอกจากนี้ Microsoft ยังได้ชี้แจงถึงต้นตอของปัญหาว่า เกิดจากข้อผิดพลาดระหว่างการอัปเกรดความจุเครือข่ายก่อนหน้านี้ ซึ่งมาปรากฏผลกระทบขึ้นภายหลังการเปลี่ยนแปลงระบบเครือข่ายเมื่อไม่นานมานี้ พร้อมอัปเดตความคืบหน้าอย่างต่อเนื่องว่า บริการต่างๆ กำลังฟื้นตัวและเริ่มมีเสถียรภาพมากขึ้น ส่วนคิวอีเมลที่ตกค้างอยู่ก็ลดลงอย่างมากจนใกล้กลับสู่ระดับปกติ อย่างไรก็ตาม บริษัทยอมรับว่ายังไม่สามารถระบุกกรอบเวล"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "White House Urges Easing Liability to Encourage AI Disclosure",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
+   "published": "2026-11-14T00:34:34+00:00",
+   "summary": "At a White House meeting on Thursday, officials from President Donald Trump’s artificial intelligence task force recommended that agencies ease their cyber liability policies in an effort to incentivize AI companies to report critical incidents."
+  },
+  {
+   "source": "The Verge",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "published": "2026-11-14T00:06:40+00:00",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely . But it’s worth remembering what Helen and the board were supposed to do: OpenAI’s nonprofit board existed specifically to make sure the company didn’t betray its mission to build safe AI by prioritizing profit and growth over safety. When the board actually tried to pull the lever, that accountability mechanism broke, and here we are. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Now, the question of AI safety is everywhere . This summer, AI models from OpenAI and Anthropic broke out of their"
+  },
+  {
+   "source": "The Verge",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "published": "2026-11-13T23:49:11+00:00",
+   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters . The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge."
+  },
+  {
+   "source": "Blognone",
+   "title": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง",
+   "url": "https://www.blognone.com/node/152177",
+   "published": "2026-11-13T23:44:03+00:00",
+   "summary": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง Body Federal Aviation Administration (FAA) หน่วยงานควบคุมการบินของรัฐบาลสหรัฐอเมริกา สั่งให้เที่ยวบินทั่วประเทศจอดรอที่สนามบิน ไม่ให้บินขึ้น ด้วยเหตุผลเรื่องซอฟต์แวร์การสื่อสารระหว่างศูนย์ควบคุมการบิน (Air Route Traffic Control Centers) ขัดข้อง FAA ยืนยันว่านี่ไม่เกี่ยวข้องกับเหตุการณ์ก่อการร้ายใดๆ แต่ตอนนี้ยังไม่มีรายละเอียดว่าซอฟต์แวร์ขัดข้องอย่างไร ในประกาศของ FAA ใช้คำว่า temporary telecommunications outage เว็บไซต์ Ars Technica ให้ข้อมูลว่า FAA เพิ่งเปิดระบบ AI ช่วยจัดการเส้นทางบินตัวใหม่ชื่อ SMART ไปเมื่อวันที่ 10 พฤศจิกายน ซึ่งอาจเป็นเหตุผลของซอฟต์แวร์ขัดข้องครั้งนี้ ที่มา - Ars Technica , TechCrunch ภาพแผนที่เครื่องบินจาก FlightRadar24 เป็นสนามบินย่าน San Francisco Bay Area สามแห่ง เวลาไทยประมาณ 6:40 น. ของวันที่ 14 พย. There has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis. — The FAA ✈️ (@FAANews) November 13, 2026 mk Sat, 14/11/2026 - 06:44"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "published": "2026-11-13T22:43:00+00:00",
+   "summary": "It was the resignation heard across the world. Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down . “It’s like a bomb went off,” one neocloud founder told TechCrunch when he first heard the news. Over the last several years, Nvidia has been a prolific investor , pouring tens of billions into startups annually and participating in 105 rounds this year alone, often as the largest investor, according to PitchBook. “If that direction changes, it’ll be a big blow to so many young companies,” said Maria Davidson, founder of Relational Capital. Huang’s absence leaves the startup ecosystem without one of its biggest champions and with far less capital for now, investors say, which could have a massive impact on dealmaking, valuations, funding, and even competition. “Nvidia is carrying almost every AI-native startup from application to neocloud,” Dawn Capital’s Shamillah Bankiya told TechCrunch. Most of the significant decisions to invest in startups often came from Jensen himself, according to Umesh Padval, managing partner at Seligman Ventures. Padval has known Huang since serving on the board of Mellanox Technologies, a netwo"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
+   "published": "2026-11-13T22:22:59+00:00",
+   "summary": "Nvidia Corp.’s leadership turmoil and the Democrats’ midterm election victories have added to concerns about the artificial intelligence boom, but those won’t derail the main driver of the bull market: capital spending on AI infrastructure, says Morgan Stanley Wealth Management’s Lisa Shalett."
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Match Group Keeping AI Out of Dating",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+   "published": "2026-11-13T22:20:58+00:00",
+   "summary": "Match Group is embracing artificial intelligence across its business, but CEO Spencer Rascoff says AI agents won't be allowed to date for users on Tinder, Hinge and its other apps. Rascoff says Match wants its platforms to remain a “human-only zone,” even as the company uses AI to verify identities, improve safety and block harmful messages. He joins Bloomberg Businessweek Daily to discuss where companies should draw the line on AI and how the technology is transforming Match Group. He also weighs ibn on Jensen Huang’s departure from Nvidia and why he thinks companies are ultimately bigger than any one CEO. (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Blackstone’s QTS Is Cutting AI Debt Sale by More Than Half",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/blackstone-s-qts-is-cutting-ai-debt-sale-by-more-than-half",
+   "published": "2026-11-13T21:35:24+00:00",
+   "summary": "QTS, a data center operator backed by Blackstone Inc., is slashing the size of a planned private debt sale by about 60% after struggling to attract enough demand from investors — and refusing to pay much higher yields."
+  },
+  {
+   "source": "Ars Technica",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "published": "2026-11-13T21:20:47+00:00",
+   "summary": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments"
+  },
+  {
+   "source": "The Verge",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "published": "2026-11-13T20:45:10+00:00",
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. Now your dot c … Read the full story at The Verge."
+  },
+  {
+   "source": "The Verge",
+   "title": "What’s really at stake in the Jensen Huang saga",
+   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "published": "2026-11-13T19:17:15+00:00",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot. On this episode of The Vergecast , David and Nilay start by trying to unpack the many parts of the story. We're all going to learn a lot more about Megaspeed than we ever planned or wanted, and we're goin … Read the full story at The Verge."
+  },
+  {
+   "source": "Wired",
+   "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+   "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+   "published": "2026-11-13T19:08:57+00:00",
+   "summary": "After a widespread outage shut down Microsoft 365 services for businesses, governments, and tens of millions of other users around the world, the essential cloud services are now (mostly) back online, according to the company’s status page . The outage debacle began around lunchtime on the East Coast on Thursday, with users reporting Outlook outages to the service-tracking website Downdetector just after 12 pm ET. Within the hour, Microsoft said it was investigating reports of an outage that at the time was limited to North America. It quickly spread to impact more than 70 countries around the world. The full cause of Microsoft’s unprecedented outage remains unknown, but the company repeatedly ruled out a cyberattack as the cause in statements to its status page. It is also ruling out AI or AI agents playing a role in the debacle. “We are seeing broad recovery and stability across our services,” a Microsoft spokesperson says in a statement. “This was a technical issue not related to cyber or AI/agents. The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change. We have addressed the underlying issue and continu"
+  },
+  {
+   "source": "The Verge",
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "published": "2026-11-13T19:07:12+00:00",
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity . If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life , but not in the way I was thinking ! As much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important : Chips and China. President Donald Trump was repor … Read the full story at The Verge."
+  },
+  {
+   "source": "Hugging Face",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "published": "2026-11-13T18:00:39+00:00",
+   "summary": "This walkthrough showcases a beverage can pick-and-place task that uses the UR17G arm , Robotiq 2F-140 gripper , and beverage can to compose a scene in Isaac Sim, check their behavior, and run a pick-and-place example with agent-generated controls. For robotics workflows, SimReady means an OpenUSD asset has been prepared with the properties needed for a defined simulation use case, such as collisions, mass, joints, and joint drives. SimReady Central , an open asset library on Hugging Face, lets you reuse robot and object assets with authored simulation properties and profile-validation evidence. For more about the library and its launch, read the announcement blog . SimReady Foundation defines what features the OpenUSD asset needs for a simulation use case. Its specifications connect three levels: For this task, those properties include the arm and gripper’s joints and a beverage can asset collisions and mass. Validation checks these settings against the profile’s requirements. The simulation then tests whether the assembled robot can use them to pick up and move the can. The UR17G , Robotiq 2F-140 , and beverage can packages include the models and their simulation settings. You as"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "published": "2026-11-13T17:25:45+00:00",
+   "summary": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week , Cristiano bluntly told the audience in a Toronto Convention Center, \"I think for most people in this room, the most likely reason they will die is because of an AI accident.\" In the opening lecture of a three-part series , Cristiano outlined his worries about the risk of an impending \"AI takeover.\" He defined that as a situation where goal-pursuing AI systems \"call the shots in the same sense that humans today call the shots and what happens on Earth\" and where any human trying to stop them \"would be as ineffective as if you or me was trying to stop the US military.\" Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said. Read full article Comments"
+  },
+  {
+   "source": "Hugging Face",
+   "title": "XYBench: Helping with the problem behind the question",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "published": "2026-11-13T17:02:35+00:00",
+   "summary": "Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of detail. We’re releasing XYBench , a benchmark of 8K+ questions that tests how AI assistants respond to requests based on misconceptions, such as asking how to thicken frosting that keeps sliding off cupcakes when the real problem is that the cupcakes are still too warm to frost. XYBench won the Best Resource Paper Award at EMNLP 2026. A mismatch between the approach someone asks about and the goal they want to achieve is known as the XY problem : a person wants to accomplish X, assumes a particular approach Y will work, and asks for help with Y. In the cupcake example, the person is so committed to making the frosting stick that they fail to consider the warmth of the cupcake as the true problem to be addressed. Developed with researchers at Carnegie Mellon, NVIDIA, and Johns Hopkins, XYBench exposes a critical gap in LLMs' ability to troubleshoot problems: recognizing when a user's request is based on an implicit misconception and appropriately redirecting them toward a solution that addresses their actual goal. Drawing on 8,115 re"
+  },
+  {
+   "source": "Techsauce",
+   "title": "ไทยเป็นผู้ใช้เทคโนโลยีมาตลอด อะไรจะทำให้เรา ‘เป็นผู้สร้างได้จริง’? 15 ปี Techsauce มากกว่างานประชุม คือพื้นที่ผลักดัน Deep Tech ไทยสู่ตลาดโลก",
+   "url": "https://techsauce.co/basedon/techsauce-thailand-tech-talent-connect-2026-deep-tech-visibility",
+   "published": "2026-11-13T17:00:36+00:00",
+   "summary": "ปี 2011 คุณอรนุช เลิศสุวรรณกิจ ประธานเจ้าหน้าที่บริหารและผู้ร่วมก่อตั้ง บริษัท เทคซอส มีเดีย จำกัด เดินเข้าร้านหนังสือเพื่อหาคำตอบว่าการสร้างระบบนิเวศ (Ecosystem) ให้สตาร์ทอัพต้องเริ่มจากตรงไหน หนังสือเล่มหนึ่งที่หยิบขึ้นมาเล่าถึงวงการสตาร์ทอัพในหลายประเทศของเอเชียตะวันออกเฉียงใต้ ทั้งอินโดนีเซีย สิงคโปร์ และเวียดนาม แต่กลับไม่มีประเทศไทยอยู่ในเล่ม และการไม่พบชื่อประเทศไทยก็กลายเป็นโจทย์ที่คุณอรนุชตั้งใจแก้นับจากวันนั้น คุณอรนุชเล่าเรื่องนี้บนเวที Thailand Tech Talent Connect 2026 ในหัวข้อ ‘Techsauce: มากกว่างานประชุม คือแพลตฟอร์มแห่งความภาคภูมิใจของประเทศไทย’ ต่อหน้านักพัฒนาและนักวิจัยที่เข้าร่วมแข่งขันในโครงการ โดยชวนมองว่า Techsauce ไม่ได้เป็นเพียงสื่อหรือผู้จัดงาน แต่เป็นแพลตฟอร์มที่คนทำงานเทคโนโลยีใช้ทำให้ผลงานของไทยถูกมองเห็นได้ และโจทย์เดิมเมื่อ 15 ปีก่อนกำลังขยายจากสตาร์ทอัพไปถึงงานวิจัยและเทคโนโลยี Deep Tech ก่อนมี Techsauce สตาร์ทอัพไทยต้องบินไปหาเงินทุนถึงต่างประเทศ เส้นทางที่นำไปสู่หนังสือเล่มนั้นเริ่มจากการทำงานในวงการเทคโนโลยีที่ยาวนานราว 25 ปี คุณอรนุชเรียนจบวิศวกรรมศาสตร์ในช่วงหลังวิกฤตต้มยำกุ้ง ซึ่งเศรษฐกิจซบเซาและยังไม่มีใครใช้คำว่าสตาร์ทอัพ มีเพียงบริษัทซอฟต์แวร์และองค์กรขนาดใหญ่ที่รับโปรแกรมเมอร์เข้าทำงาน คุณอรนุชจึงเลือกสะสมประสบการณ์ในฐานะวิศวกรของผู้ให้บริการ"
+  },
+  {
+   "source": "Wired",
+   "title": "Jensen Huang and the End of the Founder Fairy Tale",
+   "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+   "published": "2026-11-13T16:00:00+00:00",
+   "summary": "I had agreed to travel to Denver, Colorado, to interview the Nvidia CEO at SIGGRAPH, the annual confab of computer graphics PhDs and practitioners. Early that year I’d conducted a lengthy sit-down interview with Huang for a WIRED magazine feature, which apparently went well enough—both for WIRED and for Nvidia’s executive communications team—that I had been asked to interview Huang again at this conference. Another opportunity to grill the CEO of the modern world’s most consequential company? Yes, of course. I began preparing. What ensued was, in a word, bizarre. During the first prep call for the conference, the type of call-in which PR handlers typically try to coax specific questions out of journalists to prevent an ambush, a youngish, vaguely familiar woman took the lead. This was Madison Huang, Jensen’s daughter. She was clearly intelligent, commanding respect. She told me about the slides Jensen would be presenting on stage at SIGGRAPH and offered suggestions for key moments when I might tee him up to talk about the slides. I raised my concerns with both my editors and Nvidia. We agreed that I would ask the questions I intended to ask him, which included questions about the e"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "2026-11-13T15:58:00+00:00",
+   "summary": "Nvidia co-founder and now former CEO Jensen Huang has never been as prone to controversy as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. But the 63-year-old industry kingpin recently admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security. U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.) Megaspeed is a Singapore-based AI infrastructure company that reportedly purchased $4.8 billion worth of Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, The New York Times has reported. The story took a sudden turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also had an extramarital relationship with Kimberly Powell, the company’s vice president of healthca"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "published": "2026-11-13T15:00:00+00:00",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+  },
+  {
+   "source": "TechCrunch",
+   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "published": "2026-11-13T14:44:48+00:00",
+   "summary": "In the last few months, Fireflies , Wispr Flow , and Granola have all released competing capabilities in the dictation and meeting note-taking space. The newest entrant in that category is voice AI giant ElevenLabs , which this week released an experimental app called ElevenAI that combines meeting note-taking, dictation, and agent integration. Launched during its 11/11 Summit in New York, ElevenAI is still in preview, and you have to sign up for early access instead of just downloading an app. ElevenLabs, valued at $22 billion , is very much positioning this as a product that lives within a team as compared to a productivity tool for an individual. ElevenAI packs all the features typically found in other apps in the category. It can take meeting notes across your meetings and notify other participants that the conversation is being recorded. Users can query data across meetings and get live assistance during a chat, helping them recall a key detail from older conversations. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes. Plus, there’s a dictation feature, which lets users convert speech to c"
+  },
+  {
+   "source": "Techsauce",
+   "title": "Alice Huang กับชิป NVIDIA ต้องห้ามในเซี่ยงไฮ้",
+   "url": "https://techsauce.co/ai/alice-huang-nvidia-smuggled-ai-chips-shanghai",
+   "published": "2026-11-13T14:43:52+00:00",
+   "summary": "เรื่องของ Alice Huang ผู้หญิงที่ทำให้ Jensen Huang ต้องลงจากเก้าอี้ CEO ของ NVIDIA ยังไม่จบแค่เรื่องความสัมพันธ์ส่วนตัว ล่าสุด Bloomberg ได้เอกสารทางการของจีนชุดหนึ่งมา เอกสารนี้ระบุว่า บริษัทจีนที่ Alice เคยก่อตั้ง มีเซิร์ฟเวอร์ที่ใช้ชิป NVIDIA รุ่นต้องห้ามติดตั้งอยู่ในศูนย์ข้อมูลที่เซี่ยงไฮ้ และยังเอาเซิร์ฟเวอร์ชุดนี้ไปค้ำประกันเงินกู้ด้วย ที่น่าสนใจคือ หลักฐานชิ้นนี้ไม่ได้มาจากการสืบสวนลับ แต่มาจากเอกสารที่บริษัทยื่นต่อทางการจีนเอง Bloomberg บอกว่านี่คือหลักฐานที่ชัดที่สุดเท่าที่เคยมี ว่าเครือข่ายบริษัทที่มี Alice เป็นศูนย์กลาง ได้ชิป NVIDIA ที่ถูกลักลอบนำเข้าจีนไปจริง คำถามคือ ชิปพวกนี้เข้าไปถึงจีนได้ยังไง และทำไมเรื่องนี้ถึงย้อนกลับมาที่ Jensen? ทำไมสหรัฐฯ ห้ามขายชิปพวกนี้ให้จีน จะเข้าใจว่าทำไมเรื่องนี้ใหญ่ ต้องย้อนไปดูกติกาก่อน ชิปอย่าง H100 และ H200 ของ NVIDIA เป็นชิปที่บริษัท AI ทั่วโลกใช้เทรนโมเดลภาษาขนาดใหญ่ ยิ่งมีชิปมาก ก็ยิ่งสร้างโมเดลที่เก่งขึ้นได้เร็วขึ้น สหรัฐฯ มองว่าถ้าจีนเข้าถึงชิประดับนี้ได้ง่าย จะเป็นความเสี่ยงด้านความมั่นคง จึงออกมาตรการควบคุมการส่งออก ตั้งแต่ปี 2022 ปี 2022: สหรัฐฯ ห้ามขายชิป AI ระดับสูงให้จีน NVIDIA จึงทำชิปรุ่นพิเศษสำหรับตลาดจีน คือ H800 ซึ่งลดความสามารถบางส่วนลงให้ผ่านเกณฑ์ ปี 2023: สหรัฐฯ ปรับเกณฑ์ให้เข้มขึ้น H800 จึงถูกห้ามขายให้จีนไปด้วย "
+  },
+  {
+   "source": "NVIDIA Blog",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "published": "2026-11-13T13:00:42+00:00",
+   "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI outputs and guiding decisions, while NVIDIA technologies provide the compute behind the applications. Read on to learn how healthcare teams are using AI to improve and speed patient care. Friday, Nov. 13, 5:00 a.m. PT Dyania Health Uses AI to Turn Decades of Patient Records Into Better Care Hospitals hold decades of patient history, most of it written in free text, as physicians’ notes, operative reports, imaging and pathology reads and discharge summaries. To understand one patient’s full story, a clinician would need to read through years of charts . Dyania Health , a New Jersey-based clinical AI company, built Synapsis AI to do just that. Synapsis AI is a clinical reasoning engine: It works across every note, report and lab result in a patient’s record, connecting findings that may be years apart to answer clinical questions the way "
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "published": "2026-11-13T12:52:19+00:00",
+   "summary": "Former Nvidia CEO Jensen Huang’s resignation has been received with worry in Israel, the company’s “second home,” as Huang described it in 2023. The company’s importance flows both ways, as the semiconductor giant has provided a major boost to Israel’s economic forecasts in recent years. Intel, Microsoft, and many homegrown startups also conduct a sizable share of their R&D in Israel. But owing to Nvidia’s stronghold on AI given the centrality of its GPUs for training LLMs and using them, many in the country are wondering how much of a reshuffle will result from the company’s leadership crisis. As with everything at Nvidia, Huang drove the company to acquire Israeli chipmaker Mellanox for $6.9 billion in 2019 and use the company as the base for its largest R&D facility outside of the U.S. Nvidia also made plans to build a multibillion-dollar campus in northern Israel. “Jensen brought Nvidia to Israel with the acquisition of Mellanox, so there is a strong positive sentiment towards Nvidia and Jensen in Israel’s tech community,” Israeli repeat cybersecurity entrepreneur Pavel Gurvich told TechCrunch. Beyond the 6,000 locals Nvidia employs, the bigger question is whether the company w"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Jensen Huang didn’t show confidence in his successor, report says",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "published": "2026-11-13T12:28:23+00:00",
+   "summary": "Former Nvidia CEO Jensen Huang described Colette Kress, the company’s CFO who has now replaced him as interim CEO, as “a deer in the headlights” during a presentation earlier in the summer, the Wall Street Journal reported , citing an anonymous source. Huang made the comment during a meeting with Nvidia’s finance team about the company’s plans to provide guarantees worth billions of dollars to data center operators that couldn’t afford to buy its chips up front, according to the report. He reportedly also said Kress was a person who couldn’t help him steer strategy or decision-making. Kress has been with Nvidia for over 13 years now , after serving as SVP and CFO of Cisco’s Business Technology and Operations Finance. The report said she has questioned Nvidia’s program-focused, credit-based deals involving Huang’s son-in-law Nico Caprez, and wanted to know how to decide which deals are beneficial, how to value guarantees, and determine returns. Earlier in the year, she had scaled back on Nvidia’s commitment for OpenAI’s ambitious Ohio data center project. The company was in talks to provide $250 billion in credit to OpenAI but ended up committing $105 billion . Huang resigned Thursd"
+  },
+  {
+   "source": "Brand Inside",
+   "title": "แบรนด์ยุคนี้ เลือกจ้างอินฟลูตัวเล็กหลายคน มากกว่าจ้างคนดัง ผู้ติดตามเยอะ หวังได้อินฟลูสาย niche ที่รู้ลึก-กลุ่มเป้าหมายชัด",
+   "url": "https://brandinside.asia/thai-martech-firm-ideaslabs-launches-fee-free-creator-platform/",
+   "published": "2026-11-13T12:27:47+00:00",
+   "summary": "ในยุคที่ใครๆ ก็เป็นครีเอเตอร์ได้ หากมีแพลตฟอร์มที่เปิดให้รับงานโดยไม่หักค่าธรรมเนียมสักบาท ก็คงจะดีไม่น้อย ‘IdeasLabs’ ผู้พัฒนาโซลูชันด้านอินฟลูเอนเซอร์และ MarTech สัญชาติไทย เปิดตัว ‘The New KOLAXY’ แพลตฟอร์มที่รวมแบรนด์ เอเจนซี ครีเอเตอร์ เครือข่ายสื่อออนไลน์ และคนทำงานด้านการตลาดไว้ในที่เดียว พร้อมนำ AI และดาต้ามาช่วยจับคู่คนทำงานกับแคมเปญให้ตรงกลุ่มมากขึ้น ฟีเจอร์สำคัญคือ ‘KOLAXY Space’ พื้นที่ให้ครีเอเตอร์และเครือข่ายสื่อออนไลน์โชว์ผลงาน และความถนัด เพื่อให้แบรนด์เข้ามาเลือกคนที่เหมาะกับแคมเปญได้ง่ายขึ้น โดยเน้นเปิดโอกาสให้ ‘นาโนอินฟลูเอนเซอร์’ และ ‘ไมโครอินฟลูเอนเซอร์’ ที่แม้จะมีผู้ติดตามไม่มาก แต่มีความรู้เฉพาะทาง และฐานผู้ชมที่สนใจเนื้อหาของตัวเอง นอกจากนี้ ยังมี ‘AI Search’ และ ‘Smart Matching’ ที่ช่วยค้นหา และจับคู่ครีเอเตอร์กับแคมเปญ รวมถึงระบบ ‘Campaign Manager’ ที่ช่วยจัดการงานตั้งแต่ค้นหาครีเอเตอร์ ส่งคำเชิญ ยืนยันการรับงาน ไปจนถึงจ่ายเงินและสรุปผลแคมเปญ ฟรีค่าธรรมเนียม ลดต้นทุนแบรนด์ เปิดทางครีเอเตอร์รับงาน อีกจุดขายของ ‘KOLAXY’ คือ โมเดล ‘Zero Margin’ ที่ช่วยให้แบรนด์จ้างครีเอเตอร์ได้ในราคาเท่ากับการจ้างโดยตรง หรืออาจถูกกว่า โดยไม่ต้องจ่ายค่าเอเจนซีเพิ่มเติม ส่วนครีเอเตอร์ก็สมัครใช้งานแพลตฟอร์มได้ฟรี ไม่มีค่าธรรมเนียม ‘ธนดล พิทยานุวัฒน์’ ผู้ก่อตั้งและกรรมการบริหาร I"
+  },
+  {
+   "source": "Blognone",
+   "title": "Adobe Creative Cloud รองรับ MCP Server สั่งงานได้จาก Agent ภายนอก",
+   "url": "https://www.blognone.com/node/152174",
+   "published": "2026-11-13T12:19:26+00:00",
+   "summary": "Adobe Creative Cloud รองรับ MCP Server สั่งงานได้จาก Agent ภายนอก Body Adobe ประกาศข่าวว่าแอพในชุด Creative Cloud จะมี local MCP server ในตัว เพื่อให้ใช้ AI agent ภายนอกสั่งทำงานใน Photoshop, Illustrator, Premiere, After Effects ได้เลย ตัวอย่างที่ Adobe นำมาโชว์คือการใช้ ChatGPT และ Claude พิมพ์สั่งทำสิ่งต่างๆ กับ Photo แอพในกลุ่ม Creative Cloud มีฟีเจอร์ AI Assistants ที่เป็น AI agent ฝังมาในตัวแอพเลย ส่วนความสามารถดูได้จากวิดีโอด้านล่าง ที่มา - Adobe mk Fri, 13/11/2026 - 19:19"
+  },
+  {
+   "source": "Wired",
+   "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+   "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+   "published": "2026-11-13T11:45:00+00:00",
+   "summary": "A zombie virus has overtaken South Los Angeles . Authorities, hoping to contain the outbreak, have decided to barricade the neighborhood, leaving residents to make do on their own. So begins They Left Us to Die , a new microdrama from media company Mansa that runs 30 episodes and is entirely AI-generated . “The plague was made here, made on us, on purpose,” says Imani Cross, an emergency room nurse desperate for a cure to help her brother DJ, who’s been infected. On Instagram, the trailer drew mostly favorable reaction when it was released on October 29. A cascade of fire emoji filled the comments section as anticipation mounted. But the following day, as the first episode was set to go live at midnight, new tensions began to stir. Why had Mansa created a show with zero human roles? Weren’t actors David Oyelowo and Nate Parker, the company’s founders, about uplifting artists of color, not erasing them? “Mansa was one of the first vertical apps that was supposed to support and cultivate black talent, but here they are … another AI sellout,” said one user on Threads. “Why would any self-respecting casting director, producer, or director ever consider hiring Oleyowo again after this?”"
+  },
+  {
+   "source": "Techsauce",
+   "title": "ปรับโฉม HR สู่การก้าวสู่กลไกขับเคลื่อนการเติบโตเชิงยุทธศาสตร์: จากงานหลังบ้านสู่ทีมบริหาร (Boardroom)",
+   "url": "https://techsauce.co/culture-transformation/transforming-hr-into-a-strategic-growth-driver-from-back-office-support-to-the-boardroom",
+   "published": "2026-11-13T11:36:06+00:00",
+   "summary": "ในภูมิทัศน์ธุรกิจปัจจุบันที่เปลี่ยนแปลงเร็วและพลิกโฉมในหลายมิติ (Hyper-disruptive landscape) องค์กรกำลังเผชิญแรงกดดันระดับมหภาคที่เข้ามาพร้อมกัน ทั้งการก้าวกระโดดของปัญญาประดิษฐ์ (AI) และระบบอัตโนมัติ การเปลี่ยนผ่านของโครงสร้างประชากร การเติบโตของเศรษฐกิจดิจิทัล ตลอดจนข้อกำหนดด้านความยั่งยืนและ ESG (Environment, Social, and Governance) ที่เข้มงวดขึ้น งานวิจัยด้าน HR ของ Gartner ระบุว่า ผู้บริหารสายงานทรัพยากรบุคคล (CHRO) กว่า 70% รายงานว่าองค์กรกำลังเผชิญภาวะ 'เหนื่อยล้าจากการเปลี่ยนแปลง' (Change Fatigue) ขณะที่รายงาน Future of Jobs ของ World Economic Forum (WEF) ชี้ว่า ทักษะหลักในการทำงานเกือบ 44% จะถูกพลิกโฉมภายใน 5 ปีข้างหน้า ภายใต้บริบทนี้ สายงานทรัพยากรบุคคล (Human Resources) ไม่อาจทำงานเชิงรับ หรือเป็นเพียงหน่วยงานสนับสนุนด้านธุรการและต้นทุน (Administrative Cost Center) ได้อีกต่อไป หากองค์กรต้องการสร้างความได้เปรียบในการแข่งขันอย่างยั่งยืน จำเป็นต้องปรับกระบวนทัศน์ (Paradigm Shift) ครั้งสำคัญ ยกระดับงาน HR สู่บทบาทเชิงรุกในฐานะผู้ขับเคลื่อนการเติบโตเชิงกลยุทธ์ (Proactive Strategic Growth Driver) ที่ร่วมกำหนดทิศทางองค์กรกับผู้บริหารระดับสูงโดยตรง เข็มทิศสู่อนาคต 6 สมรรถนะสำคัญของงาน HR ยุคใหม่ (6 Essential Shifts for Modern HR) ผู้นำที่มีวิสัยทัศน์ไม่ได้มองมิติเหล่านี้เป็นเพีย"
+  },
+  {
+   "source": "Techsauce",
+   "title": "บีโอไอเผย 9 เดือนแรกมีเงินลงทุนจริง 796,540 ล้านบาท คาดทั้งปีมีโอกาสทะลุ 1 ล้านล้าน",
+   "url": "https://techsauce.co/news/boi-actual-investment-q3-2026",
+   "published": "2026-11-13T11:00:58+00:00",
+   "summary": "คณะกรรมการส่งเสริมการลงทุน (บีโอไอ) เปิดผลติดตาม 'เงินลงทุนจริง' ของโครงการที่ได้รับส่งเสริมการลงทุน พบว่าไตรมาส 3 ปี 2569 มีเม็ดเงินลงทุนจริง 260,680 ล้านบาท เพิ่มขึ้น 28% จากช่วงเดียวกันของปีก่อน เมื่อรวมกับสองไตรมาสแรก ทำให้ 9 เดือนแรกของปีมีเงินลงทุนจริงรวม 796,540 ล้านบาท เพิ่มขึ้น 27% โดยกลุ่มดิจิทัลและอิเล็กทรอนิกส์เป็นตัวนำ บีโอไอระบุว่าแนวโน้มไตรมาสสุดท้ายยังดีต่อเนื่อง และคาดว่าเงินลงทุนจริงทั้งปี 2569 มีโอกาสทะลุ 1 ล้านล้านบาท ซึ่งจะสูงกว่าปี 2568 ที่มีเงินลงทุนจริงรวม 865,000 ล้านบาท คุณนฤตม์ เทอดสถีรศักดิ์ เลขาธิการคณะกรรมการส่งเสริมการลงทุน (บีโอไอ) เปิดเผยว่า รัฐบาลให้ความสำคัญกับการติดตามผลการลงทุนจริงหลังโครงการได้รับอนุมัติส่งเสริมการลงทุน และมอบให้บีโอไอยกระดับการติดตาม 'เงินลงทุนจริง' เป็นรายไตรมาสอย่างเป็นระบบ ควบคู่กับการเร่งประสานงานแก้ไขปัญหาและอุปสรรคของโครงการ เพื่อให้ก่อสร้างโรงงาน ติดตั้งเครื่องจักร และเริ่มดำเนินกิจการได้ตามแผน โดยเฉพาะโครงการขนาดใหญ่ในอุตสาหกรรมเป้าหมายที่มีบทบาทต่อการยกระดับโครงสร้างเศรษฐกิจของประเทศ เงินลงทุนจริงที่บีโอไอติดตามในช่วง 1 ปีที่ผ่านมา ครอบคลุมค่าก่อสร้าง ค่าเครื่องจักร และรายการลงทุนอื่น ๆ ซึ่งสะท้อนความคืบหน้าของโครงการและกิจกรรมการลงทุนที่เกิดขึ้นในระบบเศรษฐกิจได้ชัดเจนขึ้น ดิจิทัลและอิเล็กทรอนิกส์รวมกันเกือบครึ่งของเง"
+  },
+  {
+   "source": "Techsauce",
+   "title": "ยิ่ง AI ฉลาด มนุษย์ยิ่งต้องเก็บ ‘ทักษะการคิด’ ไว้กับตัว มุมมองจากผู้บริหาร AIS, Techsauce, Health at Home",
+   "url": "https://techsauce.co/ai/ai-and-me-new-rules-living-working-sustainability-expo-2026",
+   "published": "2026-11-13T10:08:34+00:00",
+   "summary": "คนจำนวนไม่น้อยเคยจำเบอร์โทรศัพท์ของคนในครอบครัวได้เป็นสิบเบอร์ ก่อนที่ความสามารถนี้จะเลือนหายไปเมื่อโทรศัพท์มือถือจำแทนได้ทั้งหมด นพ.คณพล ภูมิรัตนประพิณ กรรมการบริหาร บริษัท เฮลท์ แอท โฮม จำกัด หยิบเรื่องใกล้ตัวนี้ขึ้นมาถามผู้ฟัง เพื่อชี้ว่าสิ่งเดียวกันกำลังเกิดขึ้นกับทักษะที่สำคัญกว่านั้นมาก เมื่อคนเริ่มยกการคิดและการตัดสินใจให้ AI ทำแทน คำเตือนดังกล่าวเกิดขึ้นบนเวทีเสวนา ‘AI & ME: The New Rules of Living and Working’ ในงาน Sustainability Expo 2026 มหกรรมความยั่งยืนที่ใหญ่ที่สุดในอาเซียน ภายใต้แนวคิด ‘พอเพียง ยั่งยืน เพื่อโลก’ ซึ่งรวมผู้บริหารสามคนจากสามแวดวงมาไว้ด้วยกัน ได้แก่ คุณกานติมา เลอเลิศยุติธรรม รองประธานเจ้าหน้าที่บริหารด้านธุรกิจองค์กร บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน) หรือ AIS ในมุมขององค์กรขนาดใหญ่ คุณอรนุช เลิศสุวรรณกิจ ประธานเจ้าหน้าที่บริหาร บริษัท เทคซอส มีเดีย จำกัด ในมุมของสื่อเทคโนโลยี และ นพ.คณพล ในมุมของการแพทย์ แม้จะมองจากคนละมุม แต่ทั้งสามคนชี้ไปทางเดียวกันว่า กฎใหม่ของการอยู่กับ AI ไม่ได้วัดที่ใช้มากหรือใช้เร็วแค่ไหน แต่อยู่ที่คนยังเป็นฝ่ายเลือกว่าจะให้ AI ทำอะไร และจะเก็บอะไรไว้ทำเอง ทั้งสามคนต่างใช้ AI ในชีวิตประจำวันอยู่แล้ว โดยคุณกานติมาใช้ประมวลผลข้อมูลที่เคยต้องรวบรวมจากหลายแหล่ง ส่วนคุณอรนุชให้ AI สรุปอีเมลที่เข้ามาวันละ 400-500 ฉบับ แล"
+  },
+  {
+   "source": "Techsauce",
+   "title": "สาว 25 ปี อดีตวิศวะ Google X สู่ผู้ก่อตั้งค่ายหนัง AI ท้าชนฮอลลีวูด!? I Based On EP.16",
+   "url": "https://techsauce.co/video/cybever-utopai-cecilia-shen",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "วงการภาพยนตร์ระดับโลกกำลังจะเปลี่ยนไปตลอดกาล? เพราะเรื่องราวของ Cecilia Shen อดีตวิศวกรสาวจาก Google X ในวัยเพียง 25 ปี ที่ตัดสินใจลาออกจากบริษัทยักษ์ใหญ่มาตั้งสตาร์ทอัปของตัวเอง พัฒนาจาก Cybever จนกลายมาเป็น Utopai Studios สตูดิโอสร้างภาพยนตร์ด้วย AI แบบครบวงจร ดึงดูดนักลงทุนระดับฮอลลีวูด และตำนานของ NBA อย่าง Carmelo Anthony มาร่วมทุน จนมูลค่าบริษัทพุ่งกระฉูด! #CeciliaShen #UtopaiStudios #AI #CarmeloAnthony #Hollywood"
+  },
+  {
+   "source": "Techsauce",
+   "title": "Google อัปเกรด Search ครั้งใหญ่ที่สุด ใช้ Gemini 4 Hydrogen ทำให้การเสิร์ชฉลาด เร็ว และรู้ใจขึ้น",
+   "url": "https://techsauce.co/ai/google-search-upgrade-gemini-4-hydrogen",
+   "published": "2026-11-13T09:28:28+00:00",
+   "summary": "Google ประกาศยกเครื่องระบบ AI บน Google Search ครั้งใหญ่ที่สุดเท่าที่เคยมีมา โดยนำโมเดล AI รุ่นใหม่อย่าง Gemini 4 Hydrogen เข้ามาเป็นสมองกลหลัก และที่สำคัญคือเปิดให้ผู้ใช้งานทุกคนทั่วโลกได้ใช้ฟรีทันที คนทั่วไปอย่างเราได้ประโยชน์อะไรจากการอัปเกรดครั้งนี้? การมาของ Gemini 4 Hydrogen สิ่งหนึ่งที่น่าจะทำให้การค้นหาของเราสะดวกขึ้นคือ ในแง่ของการตั้งคำถาม ผู้ใช้งานไม่จำเป็นต้องแยกพิมพ์คำค้นหาทีละส่วนเหมือนในอดีตอีกต่อไป แต่สามารถพิมพ์ประโยคยาว ๆ ที่อัดแน่นไปด้วยเงื่อนไขเฉพาะเจาะจงได้ในครั้งเดียว เช่น การค้นหาคาเฟ่ในเชียงใหม่ที่เปิดก่อน 8 โมงเช้า พาน้องหมาเข้าได้ มีที่จอดรถ และใกล้สนามบิน ระบบสามารถตีความบริบทที่ซับซ้อนและคัดกรองคำตอบที่ตรงตามเงื่อนไขทั้งหมดมาให้ทันที ขณะเดียวกัน หากเกิดความผิดพลาดจากการพิมพ์เร็วบนสมาร์ตโฟนจนตัวอักษรสลับกัน หรือจำชื่อเฉพาะได้เพียงลางๆ โมเดลรุ่นใหม่นี้ก็มีความสามารถในการคาดเดาเจตนาที่แม่นยำขึ้น ทำให้ลดขั้นตอนการลบแล้วพิมพ์ใหม่ไปได้มาก เบื้องหลังความฉลาดนี้ยังมาพร้อมการค้นหาที่ลึกและรอบด้านกว่าเดิมผ่านเทคนิค Fan-out โดยทุกครั้งที่กดค้นหา ระบบจะแตกคำถามหลักออกเป็นคำค้นหาย่อยหลายชุดเพื่อประมวลผลจากหลายแหล่งข้อมูลพร้อมกัน ช่วยให้ผู้ใช้งานค้นพบข้อมูลเชิงลึกหรือเว็บไซต์คุณภาพที่อาจมองข้ามไปหากค้นหาด้วยวิธีปกติ นอกจากนี้ รูปแบบการแสดงผลยังถูกปรับให้เป็นมิตรต่อการ"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "published": "2026-11-13T08:00:00+00:00",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+  },
+  {
+   "source": "Blognone",
+   "title": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย",
+   "url": "https://www.blognone.com/node/152171",
+   "published": "2026-11-13T07:24:10+00:00",
+   "summary": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย Body ผ่านไปแล้วมากกว่า 12 ชั่วโมง ปัญหาของ Microsoft 365 ที่ ไม่สามารถใช้งานได้ตามปกติ กระทบผู้ใช้งานทั่วโลก ซึ่งรวมทั้ง Outlook, Teams และ Copilot ยังคงไม่กลับมาเป็นปกติ ในช่วงแรกไมโครซอฟท์บอกว่าปัญหาเกิดจากเซิร์ฟเวอร์ไม่สามารถทำ Automated health check ได้ แต่เมื่อแก้ไขแล้วก็ยังไม่ใช่สาเหตุ ต่อมาไมโครซอฟท์ บอกว่า ได้แก้ปัญหาเพิ่มเติมหลายอย่างทั้ง การขยายทรัพยากรให้รองรับเวิร์กโหลดมากขึ้น, ปรับคอนฟิกหลายอย่าง, ตรวจสอบทราฟิกที่สร้างผลกระทบเพื่อปรับสมดุล ซึ่งตอนนี้ก็ยังไม่ยืนยันว่าจะแก้ปัญหาได้ ทั้งนี้ในทุกการรายงานสถานะของปัญหา ไมโครซอฟท์ได้ระบุว่าในตอนนี้ยังไม่พบพฤติกรรมการถูกโจมตีที่เป็นอันตรายจากภายนอกและสร้างปัญหาให้ระบบ We're continuing to work on recovering our frontend servers while implementing further traffic optimization actions to improve service stability and increase capacity. A more comprehensive update can be found at MO1550821 in the Microsoft 365 admin center, as well as https://t.co/pYdahqxDv3 if the admin center is not available to you. — Microsoft 365 Status (@MSFT365Status) November 13, 2026 ที่มา: The Register arjin Fri, 13/11/2026 - 14:24"
+  }
+ ]
+}
