@@ -1,0 +1,364 @@
+{
+ "generated_at": "2026-11-21T18:01:58.424652+00:00",
+ "window_hours": 36,
+ "failed_feeds": [],
+ "items": [
+  {
+   "source": "TechCrunch",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "published": "2026-11-21T17:00:00+00:00",
+   "summary": "Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person. You text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later. While Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space. Below are the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work. Ask Proxy ’s biggest differentiator is that it “thinks like a woman,” meaning it aims to anticipate your needs before you even ask, the company explains on its website. It works like a chatbot you can text like a friend, whether you need gift ideas, help planning an event, or recommendations for things to do that weekend. You can ask it to add important dates to your calendar, set reminders, or help with everyday decisions. Y"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "published": "2026-11-21T16:00:00+00:00",
+   "summary": "For the most part, the content offered by the microdrama startup Shortical is indistinguishable from the rest of its industry . The company produces soapy, melodramatic storylines — almost always risqué romances — that, in bite-sized two-minute episodes, compel viewers to stay glued to their phones so as not to miss the latest twist in a tawdry, cliff-hanger-happy saga. The primary way that Shortical — which was founded last January — makes money is through subscriptions. Typically, the first 7-10 episodes of a micro-drama are free. After that, if the user wants to finish the series, they have to pay a small monthly fee which unlocks access to all of the site’s content. Over the past year, the company has churned out a gush of popular live-action romances like “Crossing the Line with My Neighbor,” “Accidentally Married My Boss,” and “Spoiled by My Billionaire Sugar Daddy.” Lately, however, the company’s homepage is covered in AI-generated content. The reason isn’t exactly hard to figure out: the production overhead for AI content is substantially less than live-action. The profit potential, meanwhile, is substantially higher, if you can draw an audience. Its latest microdrama premi"
+  },
+  {
+   "source": "Blognone",
+   "title": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI",
+   "url": "https://www.blognone.com/node/152235",
+   "published": "2026-11-21T15:31:44+00:00",
+   "summary": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI Body ไมโครซอฟท์เปิดตัวโมเดลขนาดเล็กสำหรับรันแบบ on-device ตัวใหม่ชื่อ Aion 1.0 Instruct โดยจะมาแทน Phi Silica ที่ใช้มาตั้งแต่ปี 2024 ในเครื่องตระกูล Copilot+ PC Aion 1.0 Instruct มีขนาดพารามิเตอร์ 2.3B ถือว่าเล็กกว่า Phi Silica ที่ขนาด 3.8B แต่กลับทำงานได้เก่งกว่า ตอบสนองเร็วกว่า มีขนาด context window ใหญ่กว่าคือ 32K (ของเดิม 3.5K) อีกทั้งรองรับการรันบน GPU ด้วย ไม่จำเป็นต้องรันบน NPU อย่างเดียว ซึ่งจะทำให้พีซีที่ไม่มี NPU (ไม่ใช่ Copilot+ PC) ใช้งานได้ด้วย โดย GPU ที่รองรับคือ NVIDIA RTX และ AMD RDNA 4 ขึ้นไป ไมโครซอฟท์จะเริ่มเปลี่ยนโมเดลใน Windows Insider ช่วงต้นเดือนธันวาคม 2026 และเปลี่ยนให้ผู้ใช้ทั่วไปช่วงปลายเดือนมกราคม 2027 ที่มา - Microsoft mk Sat, 21/11/2026 - 22:31"
+  },
+  {
+   "source": "Blognone",
+   "title": "Canva เพิ่มทางเลือก ปิดฟีเจอร์ AI ทั้งหมดได้ในคลิกเดียว สำหรับคนไม่ต้องการ AI",
+   "url": "https://www.blognone.com/node/152233",
+   "published": "2026-11-21T15:11:37+00:00",
+   "summary": "Canva เพิ่มทางเลือก ปิดฟีเจอร์ AI ทั้งหมดได้ในคลิกเดียว สำหรับคนไม่ต้องการ AI Body Canva เพิ่มตัวเลือกใหม่ในหน้า Settings ชื่อ AI Controls หรือการปิดการทำงานของฟีเจอร์ AI ทั้งหมดในปุ่มเดียว เหตุผลของ Canva คือแม้ผู้ใช้ Canva นิยมใช้ฟีเจอร์ AI กันอย่างมาก แต่บางครั้งก็มีวันที่ผู้ใช้อยากคิดเอง อยากเริ่มงานเองจากศูนย์ ซึ่ง Canva คิดว่าผู้ใช้ควรมีสิทธิเลือก จึงเพิ่มตัวเลือกในหน้า Settings หมวด Permissions ให้ปิดฟีเจอร์ AI ทั้งหมดได้ในการคลิกครั้งเดียว และเปิดกลับมาได้เสมอถ้าต้องการ นอกจากนี้ Canva ยังเพิ่มตัวเลือกปิดไม่ให้เห็นคอนเทนต์ที่สร้างด้วย AI ในหน้าไลบรารีได้ด้วย ที่มา - Canva mk Sat, 21/11/2026 - 22:11"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Wall Street Confronts AI Reality Check",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
+   "published": "2026-11-21T14:50:30+00:00",
+   "summary": "Bloomberg US equities reporter Natalia Kniazhevich tells Bloomberg This Weekend that Anthropic’s record IPO failed to reverse deteriorating market sentiment as investors grapple with Nvidia turmoil, AI spending concerns and selling by systematic funds. Speaking with hosts David Gura and Christina Ruffini, Kniazhevich explains why Goldman Sachs’ Panic Index has reached 9 out of 10 and what heavy positioning, weak liquidity and a wave of potential new stock issuance could mean for markets. (Source: Bloomberg)"
+  },
+  {
+   "source": "The Verge",
+   "title": "Can Anthropic afford to put safety first?",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "published": "2026-11-21T13:29:45+00:00",
+   "summary": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years. All of these ideas sit in a fascinating tension with one another, and so Hayden and I really tried to break down how we think this might play out as Anthropic navigates the pressures of the public markets. You’ll hear us talk about the company’s unique corporate governance structure , something that is especially relevant in the wake of the ongoing Jensen Huang saga. We also get into why OpenAI seems happy to have let Anth"
+  },
+  {
+   "source": "Wired",
+   "title": "The Outages Are Just Getting Started",
+   "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "published": "2026-11-21T13:00:00+00:00",
+   "summary": "Welcome to Kernel Panic , a weekly newsletter by Lily Hay Newman and Matt Burgess from inside the new world of privacy and digital security. To receive this newsletter in your inbox each week, sign up here . Over the last week, you have surely noticed the disruptive streak of technical outages that hit everything from Outlook to Apple, a half dozen US banks , United Airlines, and even the NSA’s classified network. While there’s no evidence that these were cyberattacks, speculation has run wild about the cause—including a pervasive feeling that AI is to blame. So let’s just be clear: The incidents were definitely not caused by some sort of coordinated AI hacking spree and, taken individually, they all seem to have routine explanations. But as AI impacts the dynamics of digital defense more and more, security researchers and analysts have increasingly concluded that AI pressures are starting to play a role in real-world tech failures. AI-assisted vulnerability discovery has unleashed a torrent of software bugs . Attackers are then using AI tools to exploit those vulnerabilities faster, which puts more pressure than ever on organizations to quickly patch their systems. This leaves oft"
+  },
+  {
+   "source": "Prachachat",
+   "title": "คลังแก้โจทย์ใหญ่ จับตาแผนเร่งด่วน ดีเดย์ ม.ค.70 ‘รื้อภาษี-แก้ปมสินเชื่อ-เปลี่ยนผ่านพลังงาน’",
+   "url": "https://www.prachachat.net/finance/news-2099632",
+   "published": "2026-11-21T12:14:57+00:00",
+   "summary": "ตามที่ “ดร.เอกนิติ นิติทัณฑ์ประภาศ” รองนายกรัฐมนตรีและ รมว.คลัง ได้ประกาศแผน “MOF Transformation : ทรานส์ฟอร์มประเทศด้วย STI ทรานส์ฟอร์มคลังให้ DEE เพื่อประชาชน” ไปเมื่อเร็ว ๆ นี้ ภายใต้หลักคิดการขับเคลื่อนเศรษฐกิจด้วย STI (Stabilize Today, Transition Now, Invest for Tomorrow) โดยปรับวิธีทำงานตามแนวทาง DEE (Disclosure & Transparency, Easy, Efficiency & Effectiveness) เพื่อให้เศรษฐกิจไทย พร้อมรับอนาคต สร้างโอกาส เพิ่มความเข้มแข็งให้คนตัวเล็ก SMEs แข่งขันและเติบโตได้ กางแผนแก้ “โจทย์ใหญ่” แผนดังกล่าว มุ่งแก้ “โจทย์ใหญ่” คือ การฟื้นตัวที่ยังไม่ทั่วถึง, การคลังที่มีพื้นที่จำกัด, โลกเปลี่ยน คนและธุรกิจต้องปรับตัว, เครื่องยนต์เติบโตเดิมยังไม่พอ และบริการรัฐที่ยังมีขั้นตอนและภาระมาก รวมทั้งยังขาดประสิทธิภาพ ทั้งนี้ เพื่อนำไปสู่เป้าหมายใหญ่ของประเทศไทย ได้แก่ 1.เพิ่มศักยภาพในการเติบโตของเศรษฐกิจให้มากกว่า 3.0% ต่อปี 2.เพิ่มการลงทุนของภาคเอกชนและภาครัฐให้ถึง 30% ของ GDP 3.ยกระดับขีดความสามารถในการแข่งขันของไทยให้เข้าไปอยู่ใน Top 20 ของโลก ผนึกกำลังดันโปรเจ็กต์เร่งด่วน โดย “ลวรณ แสงสนิท” ปลัดกระทรวงการคลัง กล่าวว่า แผนขับเคลื่อนผ่านแนวคิด “STI DEE” จะแบ่งเป็นโครงการ Quick Big Win และ Big Win โดยเฉพาะ Quick Big Win นั้น จะต้องเปิดตัวหรือทำให้แล้วเสร็จภายในเดือน ม.ค. 2570 ทั้งนี้ สิ่งที่ขับเคล"
+  },
+  {
+   "source": "Prachachat",
+   "title": "‘ปูนอินทรี’ คิดนอกกรอบ เปิดกว้างพนักงานเติบโตด้วยตัวเอง",
+   "url": "https://www.prachachat.net/sd/sdplus-hr/news-2099701",
+   "published": "2026-11-21T12:14:45+00:00",
+   "summary": "ในยุคที่วิกฤตเศรษฐกิจรอบใหม่มาถี่ขึ้น ต้นทุนพลังงานผันผวน และเทคโนโลยีปรับตัวเร็วจนหลักสูตรอบรมแทบตามไม่ทัน บริษัท ปูนซีเมนต์นครหลวง จำกัด (มหาชน) หรือปูนอินทรี เลือกตอบโจทย์การพัฒนาคนด้วยแนวคิดที่ต่างจากองค์กรอุตสาหกรรมหนักจำนวนมาก “ประชาชาติธุรกิจ” ได้มีโอกาสร่วมพูดคุยถึงแนวทางเปิดให้พนักงานเลือกเส้นทางอาชีพของตนเอง แทนการรอให้หัวหน้างานหรือฝ่ายบุคคลกำหนดให้ พร้อมวางระบบตั้งแต่นักเรียนอาชีวศึกษา วิศวกรจบใหม่ ไปจนถึงผู้บริหารระดับสูง มนตรี นิธิกุล นายมนตรี นิธิกุล ประธานเจ้าหน้าที่บริหาร ธุรกิจปูนซีเมนต์ของประเทศไทย ให้ภาพบริบทว่า ในอดีตวิกฤตเศรษฐกิจโลกวนกลับมาทุก 10 ถึง 12 ปี แต่ปัจจุบันเหลือเพียง 2 ถึง 3 ปี นับตั้งแต่การระบาดของโควิด-19 ต่อด้วยสงครามรัสเซีย-ยูเครน และล่าสุดคือความขัดแย้งระหว่างสหรัฐอเมริกากับอิหร่าน เมื่อเดือนมีนาคม ซึ่งผลักให้ราคาพลังงานขยับขึ้นอีกครั้ง เขาประเมินว่าผลกระทบด้านต้นทุนจะปรากฏเต็มที่ในปีหน้า เพราะผู้ประกอบการมักรับแรงกระแทกช้ากว่าเหตุการณ์จริง 6 เดือนถึง 1 ปี สำหรับธุรกิจปูนซีเมนต์ซึ่งต้นทุนการผลิตราว 60% มาจากพลังงาน แรงกดดันนี้จึงหนักกว่าอุตสาหกรรมอื่น บริษัทจึงเร่งลงทุนทั้งเครื่องจักรและคนไปพร้อมกัน โดยเครื่องจักรจำนวนมากออกแบบไว้เมื่อราว 50 ปีก่อน จึงนำปัญญาประดิษฐ์ (AI) เข้าควบคุมกระบวนการผลิตให้ใช้พลังงานเหมาะสมที่สุด พร้อมลงทุนระบบดักฝุ่นแบ"
+  },
+  {
+   "source": "Prachachat",
+   "title": "ปตท.เดินต่อแผน Smart Exit โละธุรกิจไม่ถนัด-เซฟเงิน 2.8 หมื่นล้าน",
+   "url": "https://www.prachachat.net/economic/news-2100065",
+   "published": "2026-11-21T12:10:56+00:00",
+   "summary": "ปตท.เดินหน้ากระชับองค์กร ปรับพอร์ตเลิกธุรกิจไม่ทำกำไร ชี้แผน Smart Exit ช่วยรักษาเงิน 28,500 ล้าน แถมดึงเงินสดกลับได้อีก 14,000 ล้าน เลี่ยงขาดทุนได้ปีละ 1,500 ล้าน ลั่นลุยต่อสถานีชาร์จอีวี โฟกัสธุรกิจหลัก-โครงสร้างพื้นฐานพลังงาน ขณะที่โรงกลั่น-ปิโตรเคมี ยังต้องจับตา เชื่อปี’70 สถานการณ์ยังผันผวน ดร.คงกระพัน อินทรแจ้ง ประธานเจ้าหน้าที่บริหารและกรรมการผู้จัดการใหญ่ บริษัท ปตท. จำกัด (มหาชน) หรือ PTT เปิดเผยว่า ปตท.ยังคงเดินหน้าปรับพอร์ตการลงทุนตามแนวทาง Refocus Hydrocarbon และ Smart Exit โดยให้ความสำคัญกับธุรกิจที่สร้างผลตอบแทนได้ในระยะยาว ส่วนธุรกิจที่ไม่ใช่ธุรกิจหลัก หรือไม่สามารถสร้างผลตอบแทนได้ตามเป้าหมาย จะต้องทบทวนและทยอยออกจากการลงทุน การปรับพอร์ตในช่วงที่ผ่านมาทำให้ ปตท.สามารถรักษาเงินลงทุนไว้ได้มากกว่า 28,500 ล้านบาท มีเงินสดกลับคืนมากว่า 14,000 ล้านบาท และหลีกเลี่ยงผลขาดทุนที่อาจเกิดขึ้นได้มากกว่า 1,500 ล้านบาทต่อปี “เงินลงทุน 28,500 ล้านบาทหมายถึงเงินที่บริษัทไม่จำเป็นต้องนำไปลงทุนต่อ ไม่ใช่มูลค่าการขายสินทรัพย์ทั้งหมด ส่วนเงินสดที่กลับคืนกว่า 14,000 ล้านบาทเป็นอีกส่วนหนึ่งที่เกิดจากการปรับพอร์ตและลดการถือครองสินทรัพย์ ส่วนตัวเลขการหลีกเลี่ยงผลขาดทุน 1,500 ล้านบาทต่อปี เป็นการประเมินผลขาดทุนที่อาจเกิดขึ้นหากเรายังเดินหน้าลงทุนในธุรกิจเหล่านั้น การตัดสินใจออกจากธุรกิจเป็นกา"
+  },
+  {
+   "source": "Blognone",
+   "title": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI",
+   "url": "https://www.blognone.com/node/152231",
+   "published": "2026-11-21T10:33:00+00:00",
+   "summary": "Oracle ยืนยันมีเงินทุนครบถ้วนสำหรับการสร้างศูนย์ข้อมูล AI ตามสัญญากับ OpenAI Body Oracle ออกแถลงการณ์เกี่ยวกับการจัดหาเงินทุนสำหรับการสร้างและให้บริการศูนย์ข้อมูล AI ขนาดใหญ่ โดยบอกว่าบริษัทได้รับเงินทุนครบถ้วนสำหรับการดำเนินการตามสัญญาที่มีกับ OpenAI แล้ว จากการระดมทุนรอบล่าสุดเมื่อต้นเดือน ทำให้บริษัทเป็นผู้ให้บริการระดับ Hyperscaler รายแรกที่มีแหล่งเงินทุนรองรับเต็มรูปแบบ Oracle บอกว่ารายงานข่าวใดที่ระบุในทิศทางตรงกันข้ามนั้นถือว่าคลาดเคลื่อนไปจากความจริง แถลงการณ์นี้ออกมาหลังมีข่าวว่า Oracle อาจประสบปัญหาเงินทุนในการสร้างศูนย์ข้อมูล AI ซึ่งมีลูกค้ารายใหญ่คือ OpenAI ผ่าน โครงการ Stargate เพราะหากโครงการนี้มีผลกระทบก็อาจส่งผลต่อแผนงานของ OpenAI ด้วย Oracle ยังบอกว่าศูนย์ข้อมูลที่เมือง Abilene ซึ่งใช้สำหรับการฝึกฝนโมเดล Astra-6 ตอนนี้ใกล้เสร็จสมบูรณ์แล้ว ส่วนศูนย์ข้อมูลแห่งถัดไปใน Shackelford ก็ได้รับใบอนุญาตดำเนินการครบทุกขั้นตอนแล้ว รวมถึงการรับมอบตู้แร็ก NVIDIA Vera Rubin ก็จะเกิดขึ้นในอีกไม่กี่สัปดาห์ข้างหน้า บริษัทประเมินว่ากระแสเงินสดอิสระจะเริ่มเป็นบวกในครึ่งหลังปี 2028 และหลังปี 2029 จะสามารถดำเนินงานด้วยเงินทุนตนเองทั้งหมดสำหรับอนาคต ที่มา: Oracle arjin Sat, 21/11/2026 - 17:33"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+   "published": "2026-11-21T10:11:29+00:00",
+   "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry."
+  },
+  {
+   "source": "Prachachat",
+   "title": "ซีอีโอ Microsoft ย้ำจุดยืนสร้าง ‘Frontier Ecosystem’ ลุยอัพเกรดโซลูชั่น-โมเดลประมวลผล",
+   "url": "https://www.prachachat.net/tech/news-2100291",
+   "published": "2026-11-21T09:18:39+00:00",
+   "summary": "“Satya Nadella” ขึ้นเวที “Microsoft Ignite 2026” โชว์ไลน์อัพโซลูชั่นที่ได้รับการอัพเกรดชุดใหญ่ มาครบทั้ง Copilot-โมเดลประมวลผล-ความปลอดภัย ตอกย้ำพันธกิจการสร้าง “Frontier Ecosystem” ให้กับองค์กรทั่วโลก นายซาเทีย นาเดลลา ประธานกรรมการและประธานเจ้าหน้าที่บริหาร ไมโครซอฟท์ (Microsoft) กล่าวในงาน Microsoft Ignite 2026 ว่า วิสัยทัศน์และกลยุทธ์ของ “ไมโครซอฟท์” มุ่งเน้นใน 2 ประเด็นสำคัญ ได้แก่ การนำขีดความสามารถใหม่ ๆ ของเทคโนโลยีที่เติบโตอย่างก้าวกระโดดมาสร้างประโยชน์ให้ผู้คนและองค์กร ควบคู่กับการเตรียมความพร้อมรับมือผลกระทบจากการเปลี่ยนแปลงทางเทคโนโลยีที่รวดเร็ว ทั้งหมดนี้สะท้อนถึงพันธกิจที่ไมโครซอฟท์ยึดมั่นเสมอมา คือการเสริมศักยภาพให้ทุกคนและทุกองค์กรบนโลกใบนี้บรรลุผลสำเร็จที่ดียิ่งขึ้น ซึ่งในโลกปัจจุบัน หมายถึงการสร้าง “Frontier Ecosystem” เพื่อเปลี่ยนทุกความก้าวหน้าให้กลายเป็นผลลัพธ์ที่จับต้องได้จริง พร้อมสร้างแรงขับเคลื่อนใหม่ ๆ ให้กับคนทำงาน องค์กร และสังคมโดยรวม เป้าหมายดังกล่าวขับเคลื่อนภายใต้ 3 เสาหลักสำคัญ คือ 1.การสนับสนุนความมุ่งมั่นของมนุษย์ (Human Ambition) 2.ระบบอัจฉริยะและการเรียนรู้ขององค์กร (Intelligence & Learning) และ 3.ความปลอดภัยที่วางใจได้ (Trust) ดังนั้o การออกแบบโครงสร้างเทคโนโลยีทั้งหมด จึงต้องตอบโจทย์หลักการเหล่านี้ Copilot ไมโครซอฟท์ออกแบบให้ Copilot เป็นเสมือ"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "How AI Is Reshaping China's Industrial Policy",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
+   "published": "2026-11-21T09:12:17+00:00",
+   "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors — and we also discuss Huawei’s efforts to compete with Nvidia and why technological success doesn’t necessarily translate into strong returns for stock investors in China. (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+   "published": "2026-11-21T07:53:21+00:00",
+   "summary": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years."
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+   "published": "2026-11-21T00:17:14+00:00",
+   "summary": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years."
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
+   "published": "2026-11-21T00:13:38+00:00",
+   "summary": "This week, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss what the Treasury and Fed can do to tackle the nation’s debt crisis. Plus, what Grand Theft Auto 6’s release means for a video game industry that routinely faces layoffs, delays and slowing consumer spending. Later, surging healthcare costs affect businesses and their employees as Americans choose their insurance policies for the year ahead. And, how is AI changing the cybersecurity stakes for small businesses? (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Tony Wang on CrowdStrike-Zscaler Deal, AI Trade",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video",
+   "published": "2026-11-20T23:27:12+00:00",
+   "summary": "Tony Wang, Portfolio Manager of the Science and Technology Equity Strategy at T. Rowe Price, is asked whether the AI cycle has changed and whether recent declines create a buying opportunity. He also flags Wednesday’s PCE inflation report as a potential catalyst for markets. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
+  },
+  {
+   "source": "Wired",
+   "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+   "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+   "published": "2026-11-20T23:24:02+00:00",
+   "summary": "Listening to the in-game radio stations while you cruise around in Grand Theft Auto VI , you might hear a recruitment ad for the Vice City Police Department, which makes no secret of the kind of maladjusted psychos it's looking for. “Have you always dreamed of abusing your power without consequence?” one spot begins. “Well, now you can, when you join the Vice City Police Department, VCPD. You’ll have fun learning the ins and outs of applying excessive force.” The commercial goes on to suggest that cadets will be trained in racial profiling and planting evidence. Given that blistering analysis of American law enforcement, you might imagine that actual cops aren’t big fans of the latest GTA title, which was released after a 13-year wait on Thursday. Yet as millions of gamers have started to explore every stash house and back alley in the sun-drenched wilderness of a fictionalized South Florida, even police departments have attempted to exploit this monocultural mania to elevate their public messaging or recruit new officers. It’s a curious strategy given that the series rewards theft and drug dealing while enticing you to run over pedestrians, but evidently the mere presence of law e"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Hindlian Advisory CEO on AI & Anthropic Market Sell-off",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
+   "published": "2026-11-20T22:58:38+00:00",
+   "summary": "Amanda Hindlian, Founder and CEO of Hindlian Advisory and Former Global Head of Capital Markets at the New York Stock Exchange, says Anthropic’s IPO should be judged separately from a volatile week for markets. She notes that investors had been uncertain about the pricing and overall execution just two weeks earlier, but the offering priced well, drew a significantly oversubscribed book—estimated at five to seven times—and traded strongly on its first day. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+   "published": "2026-11-20T22:38:25+00:00",
+   "summary": "Jennifer Smith, Co-Founder and CEO of Scribe and a former Consultant at McKinsey, discusses AI valuations to adoption, noting research that puts AI use for workplace tasks below 4%. She says the findings contrast with the widespread chatbot and AI use they observe in their own circle. She speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "published": "2026-11-20T21:58:29+00:00",
+   "summary": "Google's flagship search experience is evolving into an AI experience with stunning speed. Even time-tested elements of search are getting AI makeovers, and the latest to get this treatment is the search homepage on Google.com. A redesign that's been in testing for the last few weeks is now official, bringing easier access to AI chats and dropping the dedicated search button entirely. Google search VP Robby Stein confirmed on X that Google is deploying the new desktop search page after a successful test. The page will now have a few more buttons under the search bar, all connected to AI features. There's an image generation button, one for analyzing files, and one for brainstorming with Gemini. The \"I'm Feeling Lucky\" button remains, but the Google Search button that used to sit next to it is gone. The search button has obviously been a part of Google's search page forever. However, it wasn't in a very convenient location in the modern interface. When you begin typing a query, the autocomplete suggestions cover that button. You have to click out of the text field to access the button, which is an extra step compared to simply mashing the Enter key to run your search. Read full arti"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "published": "2026-11-20T21:47:10+00:00",
+   "summary": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers. The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.” “We are re-evaluating our timelines, sequencing, and interim milestones—including the 2030 timeframe for our net zero emissions goal and our near-term intensity targets—so our approach reflects current operating realities while keeping progress transparent year over year,” Peterson and Swedeen wrote in the report. Read full article Comments"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Victor Peng Sees AI, Quantum Computing as Long-Term Opportunities",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video",
+   "published": "2026-11-20T21:36:56+00:00",
+   "summary": "Victor Peng, CEO of PsiQuantum and former Advanced Micro Devices president, says quantum computing and optical switching could lower compute costs on \"Bloomberg The Close.\" (Source: Bloomberg)"
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Cognition in Talks for $75 Billion Value With New Funding",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+   "published": "2026-11-20T20:47:55+00:00",
+   "summary": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter."
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "published": "2026-11-20T19:53:41+00:00",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup founded by an AI researcher who is taking a different approach to developing a fusion power plant. The U.K.-based startup was founded in February, though sources told TechCrunch that the founder, Nantas Nardelli, has been working on the idea for longer. The people asked not to be identified because the information isn’t public. Bloomberg first reported Ek’s backing of Europa Fusion. Nardelli has extensive experience in the AI world, having previously worked at Google DeepMind, Facebook AI Research, and Microsoft Research Cambridge. Recently, he was head of machine learning at Pacific Fusion , the fusion power startup based in Fremont, California. Pacific Fusion recently broke ground on a demonstration facility in New Mexico. Like most fusion startups of its size , Pacific Fusion leans heavily on physical devices to test its theories and improve its simulations. Nardelli apparently didn’t agree with the focus on hardware, instead thinking that fusion startups should invest in a more simulation- and data-heavy approach, a source familiar with his thinking told TechCrunch. Like Pacific Fusion, Europa F"
+  },
+  {
+   "source": "Wired",
+   "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+   "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+   "published": "2026-11-20T19:52:21+00:00",
+   "summary": "Jensen Huang was ousted from Nvidia amid allegations of extramarital affairs , including a relationship with an alleged Chinese intelligence asset. Yet it was “multiple issues” related to Huang’s “lack of candor” and “lying” that ultimately moved the board of directors , according to two people familiar with private discussions among the chair and other members. While Huang admitted to having an affair with Alice Huang on November 8, the board couldn’t determine in the moment whether she was an intelligence operative for China, these sources say. That same day, the board announced an independent investigation “in light of recent reporting” that their CEO had “been the target of a foreign intelligence effort.” China’s Ministry of Foreign Affairs has rejected allegations that Alice Huang was a spy. But in the following days, once allegations of other affairs surfaced, including one reportedly with a direct report, “what could be determined was [Huang’s] lying, and that spanned a year, from October 2025 through recent events,” a source close to the board told WIRED, who requested anonymity because they weren’t authorized to speak on its behalf. According to sources, members of the boa"
+  },
+  {
+   "source": "TechCrunch",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "published": "2026-11-20T19:32:08+00:00",
+   "summary": "It’s a big week for Levent Alpöge: The mathematician saw his employer, Anthropic, become the first publicly traded frontier AI lab. He also appears to have solved one of the most important problems in mathematics. “The precise timing is horrible,” he wrote in an essay announcing his findings and describing how he messaged Anthropic CEO Dario Amodei last Sunday night to ask how to announce that he had found a Lean-compilable solution to the Riemann hypothesis, which dates back to 1859 and is among the Millennium Prize math problems. The hypothesis conjectures that there is a hidden structure underlying the appearance of prime numbers. If the claimed result holds true, we’re entering sublime-mysteries-of-the-universe territory. Maybe the best way to understand how exciting this is to the mathematics community is to watch the experts puzzling through the result in a chat on Zulip . Mathematicians like Chris Birkbeck, a number theorist at the University of East Anglia, are posting thoughts like this … The cohomology bound is proved by what looks like an automorphy-lifting argument. It genuinely uses the existence of Galois representations attached to regular algebraic, polarized cuspid"
+  },
+  {
+   "source": "The Verge",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "published": "2026-11-20T18:50:19+00:00",
+   "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind.\" Should the US allow data centers to be built outside of the country, T … Read the full story at The Verge."
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Chips can survive the space environment — can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "published": "2026-11-20T17:40:01+00:00",
+   "summary": "The push to build data centers in space faces plenty of obstacles, from tricky engineering to a dearth of rockets that could take chips to orbit. But what about paying for the chips? The data center ecosystem currently depends on debt financing, with cloud providers borrowing to build out data centers and then paying back the loans with a share of the revenue. Those deals typically use the chips as collateral — if the data centers default on their loans, the lenders can take possession of the chips and resell them. That backstop makes it cheaper for companies to finance their chips. Even older chips retain value — according to Compute Credit Index Research , some H100s are selling for about half of their original cost basis from 2023, while some H200 configurations are selling for the same price they did when introduced in 2024. But you’re not going to repossess chips installed in a satellite orbiting 300 miles above Earth at 17,500 miles per hour. The Financial Times is reporting that lenders behind SpaceX’s $40 billion chip financing deal asked that none of the chips purchased be used for the company’s orbital data center plans. It’s not clear if they succeeded in getting SpaceX "
+  },
+  {
+   "source": "Bloomberg",
+   "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+   "published": "2026-11-20T15:38:52+00:00",
+   "summary": "Measures of perceived US credit risk reached levels not seen in nearly eight months and the cost of protecting the debt of some of the biggest tech firms against default jumped on Friday, as the wobbling AI trade spurred volatility in global markets and sent investors piling into safe havens."
+  },
+  {
+   "source": "The Verge",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "published": "2026-11-20T15:13:37+00:00",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg , which said Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse , OpenAI's Dots , Anthropic's Duet , and Google's Tasks . Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same. Apple began ro … Read the full story at The Verge."
+  },
+  {
+   "source": "TechCrunch",
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "published": "2026-11-20T14:55:44+00:00",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue . At the same time, the chipmaker said it will stop selling its H200 chips in China , and it dismissed calls to bring Huang back as CEO . On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Tim De Chant discussed what the future holds for Nvidia and the broader AI industry, especially as Anthropic goes public and puts the industry’s circular funding model to the test . Subscribe to Equity on YouTube , Apple Podcasts , Overcast , Spotify and all the casts. You also can follow Equity on X and Threads , at @EquityPod."
+  },
+  {
+   "source": "The Verge",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "published": "2026-11-20T14:36:42+00:00",
+   "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president Meredith Whittaker said in a blog post , while urging OS providers to make it easier for app developers to control what data agents can access. \"We want to be very clear: it is a serious problem that Signal - and application developers beyond - lack robust tools to prevent AI age … Read the full story at The Verge."
+  },
+  {
+   "source": "The Verge",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "published": "2026-11-20T14:20:13+00:00",
+   "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhile, Wall Street was paying up for one of Nvidia's biggest customers as Anthropic made its Nasdaq debut at $111.50 per share - 34 percent higher than expected. Looking at the earnings report numbers alone, Nvidia had a blockbuster quarter. Q3 revenue more than doubled from the same period … Read the full story at The Verge."
+  },
+  {
+   "source": "The Verge",
+   "title": "The week everything fell apart",
+   "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "published": "2026-11-20T14:06:59+00:00",
+   "summary": "There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On this episode of The Vergecast , Nilay and David go through the week's many calamities, and try to explain both what happened in each case - which was generally much milder than the conspiracy theories would have you believe - and why all these small issues might still add up to something worth worrying about. In a world filled … Read the full story at The Verge."
+  },
+  {
+   "source": "TechCrunch",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "published": "2026-11-20T14:00:00+00:00",
+   "summary": "Tech companies are racing to figure out how AI can make everyday work a little easier. From notetakers to webcams that follow your movements, here are six AI-powered gadgets worth checking out if you want to upgrade your workspace. If you’re constantly scribbling notes during meetings, the Flowtica Scribe could save you from having to type everything up afterward. The AI-powered pen combines traditional handwriting with audio recording. You can use its built-in gel pen to take notes, tap the side to highlight important points, and press the end of the pen to start recording audio. Once the meeting is over, its AI can transcribe the conversation, summarize key takeaways, and create a to-do list based on what was discussed. You can even ask the AI questions about the meeting to find specific information without having to go through the entire recording. The Scribe comes with a built-in microphone and 32GB of onboard storage. It can also identify up to 15 different speakers and supports 92 languages. Anker’s AI-powered recording pin, Soundcore Work , is designed to capture conversations, meetings, and quick voice memos without taking up much space on your desk. Priced at $159 (current"
+  },
+  {
+   "source": "Wired",
+   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+   "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+   "published": "2026-11-20T12:00:00+00:00",
+   "summary": "Khalil Roberts had heard horror stories of people getting kicked off Instagram for using third-party apps to purge follower counts, so when he came across an X post claiming that Muse — Meta ’s AI assistant —could mass-unfollow people who didn’t follow him back, he didn’t believe it. “I’ve never gone through my exact list to vet those people out, but I’ve always been curious,” the 31-year-old New Yorker tells WIRED. But after realizing that by using Muse, his account wouldn’t get flagged as spam, his mind was made up. “I was like, I actually will be a little petty.” After downloading Muse, Roberts, who had over 7,600 followers, entered the prompt: “Can you show me a list of people (non celebrity) that [don’t] follow me back on instagram and can you unfollow them for me. ” Within minutes, Muse identified 151 accounts. It attached an Excel sheet with a breakdown of everyone cataloged—separated by categories identifying their username, real name, classification, and profile link—and asked if Roberts wanted to proceed with his request. Shockingly, some of the names were people he thought of as friends. “It was a little surprising, but also a reminder that we don’t have a relationship a"
+  },
+  {
+   "source": "Brand Inside",
+   "title": "จากซอสบนโต๊ะอาหาร สู่ Global Cult Favorite เปิดกลยุทธ์ ‘Exotic Food’ กับเป้าหมายรายได้ 4,000 ล้านบาท",
+   "url": "https://brandinside.asia/exotic-food-xo-flying-goose-global/",
+   "published": "2026-11-20T11:30:51+00:00",
+   "summary": "ซอสไทยขวดนี้ ไปอยู่ในซูเปอร์มาร์เก็ตทั่วโลกได้อย่างไร ลองจินตนาการภาพการเดินเข้าซูเปอร์มาร์เก็ตในลอนดอน ปารีส หรือเบอร์ลิน ปกติแล้วเครื่องปรุงรสจากไทยมักถูกวางหลบมุมอยู่ในโซน Ethnic Food หรือชั้นวางสินค้าเอเชียเฉพาะกลุ่ม แต่วันนี้ขวดซอสพริกรูปห่านบิน หรือ Flying Goose ถูกจัดวางอยู่บนเชลฟ์หลักแบบเดียวกับซอสมะเขือเทศหรือมัสตาร์ดสากลทั่วไป กลายเป็นเครื่องปรุงติดครัวที่ผู้บริโภคท้องถิ่นหยิบใส่ตะกร้าเป็นปกติ ความสำเร็จนี้สะท้อนผ่านโครงสร้างธุรกิจของ บริษัท เอ็กโซติค ฟู้ด จำกัด (มหาชน) หรือ XO ที่มีสัดส่วนรายได้จากการส่งออก 99% ขยายตลาดไปแล้วกว่า 80 ประเทศ และมีจุดวางจำหน่ายมากกว่า 30,000 แห่งทั่วโลก ทำไม ‘ซอสพริกศรีราชา’ ถึงกลายเป็น Global Cult Favorite ซอสพริกศรีราชาของ Flying Goose ก้าวข้ามจากการเป็นแค่เครื่องปรุงอาหารเอเชีย สู่การเป็น Global Cult Favorite ระดับโลก เกิดจากการจับจังหวะกระแสอาหารและไลฟ์สไตล์ของคนรุ่นใหม่ได้ตรงจุด รสชาติที่เปิดกว้างต่อการสร้างสรรค์ (Culinary Versatility) รสชาติที่กลมกล่อมลงตัวระหว่างความเผ็ด เปรี้ยว และหวานนิดๆ ทำให้ซอสศรีราชาไม่ได้จำกัดอยู่แค่บนโต๊ะอาหารไทย แต่เข้ากันได้กับอาหารตะวันตกทุกมื้อ ตั้งแต่เบอร์เกอร์ พิซซ่า เฟรนช์ฟรายส์ ไข่คน ไปจนถึงเมนูฟิวชัน เครื่องดื่มค็อกเทล ทำให้เกิดกระแสการนำมาสร้างสรรค์เป็นเมนูใหม่ๆ และแชร์ลงโซเชียลมีเดียอย่างแพร่หลาย ส"
+  },
+  {
+   "source": "Wired",
+   "title": "Regular Tech Bros Are Worried About Honeypots",
+   "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+   "published": "2026-11-20T11:00:00+00:00",
+   "summary": "When the founder of a cybersecurity firm hired Blaine Anderson as a matchmaker, it wasn’t just because the man was lonely. It was also, Anderson says, because he was “super worried about spies.” The cybersecurity founder isn’t the only one. As Jensen Huang’s affair with an alleged asset of China’s Ministry of State Security dominates headlines and AI companies reportedly warn employees against “honeypots,” matchmakers say that more men with pretty normal lives are worried that their dates may have ulterior motives: accessing corporate secrets . “Even if you're not a CEO or at a big tech giant, these fears have trickled down to just regular professionals,” Simone Grossman, a Brooklyn-based matchmaker, tells WIRED. One tech worker, who requested anonymity in order to speak candidly, says he considers himself “highly selective” about the people he interacts with face-to-face. “Even though I could vet you from looking you up online, I can't help but still be a tad dubious,” he tells WIRED. On a scale from zero to 10, with 10 being the most anxious about espionage, he puts himself at a seven. Even though the vast majority of tech employees likely won’t be targeted for romantic espionage"
+  },
+  {
+   "source": "TechHub",
+   "title": "ดานอน เอเชียตะวันออกเฉียงใต้ ยกระดับห้องปฏิบัติการนวัตกรรมและพัฒนาผลิตภัณฑ์ประจำภูมิภาค",
+   "url": "https://www.techhub.in.th/danone-i-application-lab-renovation/",
+   "published": "2026-11-20T10:58:46+00:00",
+   "summary": "เพื่อเข้าใจผู้บริโภคได้ลึกซึ้งขึ้น หนุนการพัฒนานวัตกรรมโภชนาการในเอเชียตะวันออกเฉียงใต้ รองรับผู้เข้าร่วมทดสอบและประเมินผลิตภัณฑ์พร้อมกันได้เพิ่มขึ้น 40% นำความเชี่ยวชาญด้านการวิจัยและพัฒนาระดับโลกมาอยู่ใกล้ภูมิภาคมากขึ้น การพัฒนานวัตกรรมโภชนาการให้ตอบโจทย์ผู้บริโภคในแต่ละพื้นที่ ต้องเริ่มจากความเข้าใจทั้งความต้องการด้านโภชนาการ ประเด็นสุขภาพที่ผู้บริโภคให้ความสำคัญ และประสบการณ์ในชีวิตประจำวัน ดานอนจึงยกระดับพื้นที่ทดสอบประสบการณ์ผู้บริโภค (Consumer Experience Space) ภายในห้องปฏิบัติการนวัตกรรมและพัฒนาผลิตภัณฑ์ประจำภูมิภาคเอเชียตะวันออกเฉียงใต้ (SEA Research and Innovation Application Lab) ที่ตั้งอยู่ในประเทศไทย เพื่อเพิ่มศักยภาพในการนำข้อมูลและความคิดเห็นจากผู้บริโภคมาใช้ประกอบการพัฒนาผลิตภัณฑ์ให้ตอบโจทย์ความต้องการของผู้คนในภูมิภาคได้ดียิ่งขึ้น ห้องปฏิบัติการแห่งนี้เชื่อมโยงการดำเนินงานด้านการพัฒนานวัตกรรมและผลิตภัณฑ์ในเอเชียตะวันออกเฉียงใต้เข้ากับเครือข่ายวิจัยและนวัตกรรมระดับโลกของดานอน ซึ่งผสานองค์ความรู้ทางวิทยาศาสตร์เข้ากับข้อมูลเชิงลึกเกี่ยวกับผู้บริโภคและผู้ป่วย ทำให้ทีมพัฒนานวัตกรรมและผลิตภัณฑ์ในภูมิภาค สามารถเข้าถึงความเชี่ยวชาญด้านโภชนาการ สุขภาพ วิทยาศาสตร์ และเทคโนโลยีในระดับโลกได้มากขึ้น เมื่อนำองค์ความรู้เหล่านี้มาประยุกต์กับ ความเข้าใจความต้องการของผู้บริโภคและผู้"
+  },
+  {
+   "source": "TechHub",
+   "title": "สมิติเวชมองอนาคตโรงพยาบาล รักษาคน มากกว่ารักษาโรค มุ่งเพิ่ม Healthspan ให้ผู้คน",
+   "url": "https://www.techhub.in.th/samitivej-hospitals-healthspan/",
+   "published": "2026-11-20T10:47:24+00:00",
+   "summary": "ค่าใช้จ่ายด้านสุขภาพของไทยมีขนาดราว 5% ของ GDP แต่ราคาที่ต้องจ่ายเมื่อคนหนึ่งคนเจ็บป่วยสูงกว่าตัวเลขในใบเสร็จ ทั้งความเจ็บปวด รายได้ที่หายไป และเวลาของคนในครอบครัวที่ต้องเปลี่ยนมาเป็นผู้ดูแล ยิ่งผู้คนใช้ชีวิตอยู่กับความเจ็บป่วยนานเท่าไร ต้นทุนต่อครอบครัวและประเทศก็ยิ่งสะสมมากขึ้น นพ.ชัยรัตน์ ปัณฑุรอัมพร ประธานเจ้าหน้าที่บริหาร กลุ่มโรงพยาบาลสมิติเวชและโรงพยาบาลบีเอ็นเอช จึงตั้งโจทย์ถึงอนาคตของโรงพยาบาลว่า หากคนมีอายุยืนขึ้น แต่ต้องใช้ช่วงท้ายของชีวิตอยู่กับความเจ็บป่วย เราจะเปลี่ยนช่วงเวลาเหล่านั้นให้เป็นปีที่ยังแข็งแรงได้อย่างไร “ในประเทศไทย อายุเฉลี่ยอยู่ที่ 78 แต่จาก 68 ถึง 78 ป่วยออด ๆ แอด ๆ เป้าหมายที่เราต้องการ คือ ทำยังไงให้คุณไปถึง 78 แล้วคุณยังแข็งแรง สามารถสร้าง GDP ให้ประเทศ และไม่เป็นภาระให้กับประเทศชาติ” นพ.ชัยรัตน์กล่าว พร้อมสะท้อนเป้าหมายของสมิติเวชที่มองไกลกว่า Longevity หรือการมีอายุยืนยาว ลงลึกถึง Healthspan หรือช่วงชีวิตที่มีสุขภาพดี เพื่อเปลี่ยนจากติดเตียงให้มาติดสุข ให้ผู้สูงวัยยังดูแลตัวเอง ทำสิ่งที่รัก และใช้ชีวิตร่วมกับครอบครัวได้อย่างมีคุณภาพ การจะมีสุขภาพดีในวัยสูงอายุจึงต้องวางรากฐานตั้งแต่วันนี้ สมิติเวชจึงนำแนวคิดเราไม่อยากให้ใครป่วย ที่ทำมาเป็นเวลา 7 ปี ผ่านการค้นหาความผิดปกติและจัดการความเสี่ยงก่อนเกิดโรค มาต่อยอดสู่ Healthspan, Beyond Hospital Care ร"
+  },
+  {
+   "source": "Techsauce",
+   "title": "OpenAI อัปเกรด ChatGPT เปิดตัว ‘Live Dictation’ ถอดเสียงสดแบบเรียลไทม์ ไม่จำกัดเวลา",
+   "url": "https://techsauce.co/ai/openai-chatgpt-live-dictation-privacy-risk",
+   "published": "2026-11-20T09:42:25+00:00",
+   "summary": "OpenAI ล่าสุดได้ทยอยปล่อยฟีเจอร์ใหม่ Live Dictation ให้กับผู้ใช้งาน ChatGPT ทั่วโลกตั้งแต่วันที่ 18 พฤศจิกายน 2026 ที่ผ่านมา โดยชูจุดเด่นด้านการถอดเสียงพูดเป็นข้อความแบบเรียลไทม์ (Real-time Transcription) พร้อมปลดล็อกข้อจำกัดด้านเวลาการอัดเสียงแบบเดิม แม้การอัปเดตครั้งนี้จะช่วยให้การทำงานลื่นไหลขึ้นมาก แต่สื่อเทคโนโลยีอย่าง Gizmodo ได้ตั้งข้อสังเกตถึงอีกมุมหนึ่งที่น่ากังวล นั่นคือความเสี่ยงที่ผู้ใช้อาจเผลอเปิดเผยข้อมูลส่วนตัวมากเกินไป ซึ่งข้อมูลเสียงเหล่านั้นอาจกลายเป็นขุมทรัพย์ชั้นดีที่ถูกนำไปใช้ฝึกฝนโมเดล ของ OpenAI หากผู้ใช้ไม่ได้ตั้งค่าปิดไว้ เจาะลึก Live Dictation เปลี่ยนประสบการณ์ใช้งานอย่างไร? เดิมที ฟีเจอร์ Dictation (การพูดแทนการพิมพ์) บน ChatGPT มีข้อจำกัดสำคัญ 2 ประการที่ขัดขวางความต่อเนื่องในการใช้งาน ได้แก่ การจำกัดเวลาอัดเสียงสูงสุดเพียง 10 นาทีต่อครั้ง และการที่ระบบจะประมวลผลถอดเสียงออกมาเป็นข้อความก้อนเดียวก็ต่อเมื่อผู้ใช้กดหยุดพูดแล้วเท่านั้น Live Dictation เข้ามาแก้ Pain Point ทั้ง 2 จุดนี้โดยตรง โดยข้อความจะปรากฏขึ้นบนหน้าจอทันทีแบบคำต่อคำในขณะที่ผู้ใช้กำลังพูด และยกเลิกเพดานเวลา 10 นาทีออกไป ทำให้ผู้ใช้สามารถพูดร่ายยาวเพื่อระดมไอเดีย เล่าเรื่อง หรือสั่งงานได้นานเท่าที่ต้องการ ในวิดีโอสาธิตที่ OpenAI เผยแพร่ผ่านแพลตฟอร์ม X แสดงให้เห็นตัวอย่างการใช้งานจริงผ่านนักแ"
+  },
+  {
+   "source": "TechHub",
+   "title": "เด็กจีนทำได้ ใช้ AI สร้างแอป ส่งการบ้านในห้องเรียน",
+   "url": "https://www.techhub.in.th/chinese-child-uses-ai-to-build-an-app/",
+   "published": "2026-11-20T09:09:52+00:00",
+   "summary": "“Peng Gaodi” เด็กชายวัย 13 ปี ตั้งเป้าหมายที่จะเติบโตไปเป็นนักวิทยาศาสตร์คอมพิวเตอร์ ได้ใช้ความรู้เกี่ยวกับปัญญาประดิษฐ์ (AI) มาสร้างแอปพลิเคชันกว่า 200 รูปแบบ ซึ่งรวมถึงแพลตฟอร์มสำหรับส่งการบ้านและตลาดซื้อขายสินค้ามือสอง แถมเพื่อนร่วมชั้นกำลังเขียนโปรแกรมควบคุมหุ่นยนต์ที่มีรูปร่างคล้ายมนุษย์ให้เล่นฟุตบอล เข้าร่วมเวิร์กชอปการเขียนโค้ด และฝึกฝนการใช้งานเครื่องจำลองการบินด้วย AI ซึ่งทั้งหมดเป็นเด็กจากโรงเรียน Beijing New Talent Academy ที่มีค่าเทอมสูงถึง 39,000 ดอลลาร์ต่อปี (ประมาณ 1.3 ล้านต่อปี) ที่มีหลักสูตรนวัตกรรมดิจิทัลครอบคลุมทั้งเรื่อง AI วิทยาการหุ่นยนต์ การเขียนโปรแกรม และพัฒนาโมเดล AI สำหรับใช้ในห้องเรียน ปัจจุบันประเทศจีนเริ่มสนับสนุนให้โรงเรียนต่าง ๆ จัดตั้งหลักสูตรปัญญาประดิษฐ์ตั้งแต่ระดับประถมภายใต้โครงการ “AI Plus Education” เพื่อเปิดโอกาสให้นักเรียนได้เรียนรู้และต่อยอดได้ไวขึ้น และตั้งเป้าที่จะสร้างระบบการศึกษาด้าน AI ที่ครอบคลุมทุกระดับชั้นการศึกษา รวมถึงขยายขอบเขตไปสู่สาธารณชนทั่วไปภายในปี 2030 เพราะจีนมองว่าเทคโนโลยีนี้เป็นหัวใจสำคัญของอนาคตทางเศรษฐกิจและการแข่งขันทางเทคโนโลยีกับสหรัฐอเมริกา โดยหวังว่าการให้เด็ก ๆ ได้สัมผัสกับเทคโนโลยีตั้งแต่เนิ่น ๆ จะช่วยต่อยอดนวัตกรรมที่สร้างขึ้นเองในอนาคต ที่มา >> reuters #AI #หลักสูตรAI #TechhubUpdate The post เด็กจีนทำได้ ใช้ "
+  },
+  {
+   "source": "Techsauce",
+   "title": "Google เปิดฟีเจอร์ Computer Use คลิก พิมพ์ กรอกฟอร์ม ทำได้หมด แค่พิมพ์บอก AI จะช่วยทำงานอยู่เบื้องหลัง",
+   "url": "https://techsauce.co/ai/google-gemini-mac-computer-use-ai-agent",
+   "published": "2026-11-20T08:50:52+00:00",
+   "summary": "Google เพิ่มฟีเจอร์ใช้คอมพิวเตอร์แทนผู้ใช้ (Computer Use) ให้แอป Gemini บน Mac แล้ว ผู้ใช้เพียงพิมพ์บอกเป็นภาษาธรรมดาว่าต้องการอะไร จากนั้น Gemini จะคลิก พิมพ์ เปิดเมนู และกรอกฟอร์มข้ามไปมาระหว่างไฟล์ในเครื่อง แอปบนเดสก์ท็อป และหน้าเว็บ จนงานหลายขั้นตอนเสร็จ โดยทั้งหมดเกิดขึ้นในหน้าต่างเบื้องหลัง ผู้ใช้จึงยังใช้หน้าจอและเมาส์ทำงานอื่นต่อได้ตามปกติ Computer Use เป็น AI Agent รูปแบบหนึ่ง ซึ่งหมายถึง AI ที่ลงมือทำงานต่อเนื่องหลายขั้นตอนได้เอง แต่จุดต่างคือ AI จะมองสิ่งที่อยู่บนหน้าจอแล้วกดปุ่ม พิมพ์ข้อความ หรือเลือกเมนูแบบเดียวกับที่คนใช้คอมพิวเตอร์ แทนการเชื่อมกับแต่ละโปรแกรมผ่านช่องทางเฉพาะอย่าง Application Programming Interface (API) ก่อนหน้านี้ Google เคยเปิดความสามารถนี้ให้นักพัฒนาใช้ผ่านโมเดล Gemini 2.5 Computer Use ซึ่งเน้นการทำงานบนเว็บเบราว์เซอร์ ส่วนครั้งนี้เป็นการนำมาใส่ในแอปที่ผู้ใช้ทั่วไปใช้งานจริง และขยายขอบเขตไปถึงโปรแกรมบนเดสก์ท็อปด้วย ถึงอย่างนั้น Google ก็มาช้ากว่าคู่แข่งอยู่พอสมควร เพราะ OpenAI, Anthropic และ Meta ต่างใส่ฟีเจอร์ AI Agent ไว้ในแอปเดสก์ท็อปของตัวเองมาสักพักแล้ว ขณะที่ Google เพิ่งขยายการเปิดใช้ Tasks โหมดที่เปลี่ยน Gemini จากแชตบอตเป็นผู้ช่วยที่ล็อกอินเว็บไซต์ ซื้อของออนไลน์ และจองนัดหมายแทนผู้ใช้ได้ เมื่อต้นสัปดาห์นี้เอง ส่วน CC ผู้ช่วย AI ที่ช่วยครอ"
+  },
+  {
+   "source": "TechHub",
+   "title": "เกาหลีใต้ยิง ระบบแจ้งเตือนฉุกเฉิน ทั่วประเทศ จับโกงสอบซูนึง",
+   "url": "https://www.techhub.in.th/south-korea-triggers-nationwide-emergency-alert-system-to-curb-cheating-on-the-suneung-exam/",
+   "published": "2026-11-20T07:57:41+00:00",
+   "summary": "เกาหลีใต้สั่งเปิดระบบแจ้งเตือนฉุกเฉินดังสนั่นทั่วประเทศ ทะลุโหมดปิดเสียง จับนักเรียนซ่อนมือถือโกงสอบซูนึงได้ทันที 22 ราย ทางการเกาหลีใต้ตัดสินใจงัดมาตรการขั้นเด็ดขาดเพื่อสกัดกั้นการทุจริตในการสอบคัดเลือกเข้ามหาวิทยาลัยระดับชาติ ด้วยการสั่งเปิดใช้งาน ระบบแจ้งเตือนฉุกเฉินระดับสูงสุด ส่งสัญญาณเสียงดังสนั่นไปยังโทรศัพท์มือถือทั่วประเทศ ผลลัพธ์จากการส่งสัญญาณเตือนครั้งแรกเพียงครั้งเดียว สามารถตรวจจับนักเรียนที่ฝ่าฝืนกฎและแอบซ่อนสมาร์ตโฟนไว้กับตัวได้ทันทีถึง 22 ราย การสอบวัดความรู้ทางวิชาการระดับวิทยาลัย หรือ CSAT ที่คนเกาหลีรู้จักกันในชื่อซูนึง จัดขึ้นเมื่อวันพฤหัสบดีที่ผ่านมา โดยมีผู้เข้าสอบราว 500,000 คน กระจายตัวตามศูนย์สอบ 1,312 แห่งทั่วประเทศ ผู้เข้าสอบต้องทำข้อสอบ 5 วิชาต่อเนื่องยาวนานถึง 8 ชั่วโมงภายในวันเดียว ซึ่งคะแนนที่ได้จะเป็นตัวชี้ชะตาว่าพวกเขาจะได้เข้าเรียนต่อในมหาวิทยาลัยและคณะใด สาเหตุที่ทางการต้องคุมเข้มการทุจริตเป็นพิเศษในปีนี้ สืบเนื่องจากกรณีอื้อฉาวก่อนหน้านี้ ที่ผู้ทำคะแนนสูงสุดในการสอบใบอนุญาตนักบัญชีภาษีอากรของเกาหลีใต้ ทำคะแนนได้สูงผิดปกติถึง 159 จาก 160 คะแนน ก่อนจะยอมรับสารภาพในภายหลังว่าใช้กล้องขนาดจิ๋วร่วมกับเทคโนโลยีปัญญาประดิษฐ์ในการโกงข้อสอบ ในเวลา 08.30 น. ซึ่งเป็นช่วงก่อนเริ่มการสอบวิชาแรกเพียงเล็กน้อย เจ้าหน้าที่ได้ปล่อยสัญญาณแจ้งเตือนฉุกเฉินขั้นสูงสุด "
+  },
+  {
+   "source": "Wired",
+   "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "published": "2026-11-20T07:00:00+00:00",
+   "summary": "At 16 years old, Henrijs Dandzbergs is too young to vote. Or drink. Or smoke. Or drive unsupervised. But he’s not too young to win half a million dollars for his AI-guided- missile startup. In September, Dandzbergs, who was born in Latvia, was admitted to Y Combinator’s fall 2026 cohort. The startup accelerator counts companies like Airbnb, Stripe, DoorDash, and Reddit among its alumni; Dandzbergs is likely the youngest solo founder in its vaunted history. His startup, Polemos Industries, is attempting to develop a new class of precision-guided missile that can be easily and cheaply manufactured, can be fired from portable launchers, and can resist jamming attempts. “I think missiles are the coolest thing,” Dandzbergs tells WIRED. “A lot of people that have found success in engineering early on have had a passion for blowing stuff up.” In conversation, Dandzbergs is poised and articulate. He talks about “attacking hard problems,” breaking things down to “first principles,” and how the Ukraine conflict has forever altered the theater of war—a personal fixation, given his country's proximity to Russia. He projects an unassailable confidence in his own abilities. “He’s a pretty except"
+  },
+  {
+   "source": "TechHub",
+   "title": "อัปเดตใหม่ Gemini Notebook สร้างเว็บ จากไฟล์เอกสารได้แล้ว",
+   "url": "https://www.techhub.in.th/new-gemini-notebook-update-now-create-websites-from-document-files-2/",
+   "published": "2026-11-20T06:45:02+00:00",
+   "summary": "ฟีเจอร์ใหม่ Gemini Notebook สร้างเว็บ สรุปข้อมูลจากไฟล์เอกสาร เป็นไทม์ไลน์หรือแดชบอร์ดได้ทันที เช็กวิธีใช้และข้อควรระวังที่นี่ โดยล่าสุด มีอัปเดตใหม่ของ Gemini Notebook ที่ให้ AI นำข้อมูลในเอกสารมาสร้างเป็นเว็บไซต์ได้ ทั้งไทม์ไลน์ แดชบอร์ด หรือหน้าสรุปที่คลิกดูรายละเอียดต่อได้ ลองนึกภาพว่าเรามีเอกสารประวัติศาสตร์หลายสิบหน้า แทนที่จะไล่อ่านทีละหน้า ก็ให้ AI จัดเป็นไทม์ไลน์ แล้วกดเลือกดูเหตุการณ์ในแต่ละช่วง หรือถ้ามีรายงานยอดขาย ก็ลองเปลี่ยนเป็นแดชบอร์ดที่ช่วยให้สำรวจตัวเลขได้สะดวกขึ้น เหมาะกับเวลาที่อยากเห็นภาพรวมก่อน แล้วค่อยเลือกอ่านเรื่องที่สนใจครับ วิธีเริ่มต้นก็ไม่ยุ่งยาก เปิด Gemini Notebook แล้วสร้างสมุดใหม่ หรือเลือกสมุดเดิมที่เราแก้ไขได้ จากนั้นเพิ่มเอกสารที่ต้องการใช้ แล้วพิมพ์ในช่องแชตว่า make me a site พร้อมบอกว่าอยากให้เว็บออกมาแบบไหน เมื่อสร้างเสร็จ ก็เปิดดูในแท็บใหม่หรือแชร์ให้คนอื่นดูต่อได้ ใครยังนึกคำสั่งไม่ออก ลองใช้แบบนี้ครับ “ช่วยเปลี่ยนเอกสารนี้เป็นเว็บไซต์สรุปภาษาไทย ทำเป็นไทม์ไลน์ที่คลิกดูรายละเอียดแต่ละช่วงได้ ใช้ภาษาเข้าใจง่าย และระบุแหล่งข้อมูลของข้อเท็จจริงสำคัญ” สำหรับคนทำคอนเทนต์ ฟีเจอร์นี้ก็น่าลองครับ เช่น นำข้อมูลสเปกคอมพิวเตอร์มาทำเป็นหน้าเว็บให้ผู้อ่านกดดูแต่ละรุ่น หรือเปลี่ยนเอกสารงานอีเวนต์เป็นหน้ารวมกำหนดการ ให้คนเลือกดูช่วงที่อยากเข้าร่วมได้ จุดส"
+  },
+  {
+   "source": "TechHub",
+   "title": "อัปเดตใหม่ Gemini Notebook สร้างเว็บ จากไฟล์เอกสารได้แล้ว",
+   "url": "https://www.techhub.in.th/new-gemini-notebook-update-now-create-websites-from-document-files/",
+   "published": "2026-11-20T06:39:13+00:00",
+   "summary": "ฟีเจอร์ใหม่ Gemini Notebook สร้างเว็บ สรุปข้อมูลจากไฟล์เอกสาร เป็นไทม์ไลน์หรือแดชบอร์ดได้ทันที เช็กวิธีใช้และข้อควรระวังที่นี่ ใครเคยส่ง PDF ให้ AI สรุป แล้วพบว่าต้องนั่งอ่านสรุปยาว ๆ อีกรอบ ลองเปลี่ยนให้,มันเป็นเว็บที่กดดูเฉพาะเรื่องที่สนใจกันครับ โดยล่าสุด มีอัปเดตใหม่ของ Gemini Notebook ที่ให้ AI นำข้อมูลในเอกสารมาสร้างเป็นเว็บไซต์ได้ ทั้งไทม์ไลน์ แดชบอร์ด หรือหน้าสรุปที่คลิกดูรายละเอียดต่อได้ ลองนึกภาพว่าเรามีเอกสารประวัติศาสตร์หลายสิบหน้า แทนที่จะไล่อ่านทีละหน้า ก็ให้ AI จัดเป็นไทม์ไลน์ แล้วกดเลือกดูเหตุการณ์ในแต่ละช่วง หรือถ้ามีรายงานยอดขาย ก็ลองเปลี่ยนเป็นแดชบอร์ดที่ช่วยให้สำรวจตัวเลขได้สะดวกขึ้น เหมาะกับเวลาที่อยากเห็นภาพรวมก่อน แล้วค่อยเลือกอ่านเรื่องที่สนใจครับ วิธีเริ่มต้นก็ไม่ยุ่งยาก เปิด Gemini Notebook แล้วสร้างสมุดใหม่ หรือเลือกสมุดเดิมที่เราแก้ไขได้ จากนั้นเพิ่มเอกสารที่ต้องการใช้ แล้วพิมพ์ในช่องแชตว่า make me a site พร้อมบอกว่าอยากให้เว็บออกมาแบบไหน เมื่อสร้างเสร็จ ก็เปิดดูในแท็บใหม่หรือแชร์ให้คนอื่นดูต่อได้ ใครยังนึกคำสั่งไม่ออก ลองใช้แบบนี้ครับ “ช่วยเปลี่ยนเอกสารนี้เป็นเว็บไซต์สรุปภาษาไทย ทำเป็นไทม์ไลน์ที่คลิกดูรายละเอียดแต่ละช่วงได้ ใช้ภาษาเข้าใจง่าย และระบุแหล่งข้อมูลของข้อเท็จจริงสำคัญ” สำหรับคนทำคอนเทนต์ ฟีเจอร์นี้ก็น่าลองครับ เช่น นำข้อมูลสเปกคอมพิวเตอร์มาทำ"
+  },
+  {
+   "source": "TechHub",
+   "title": "Microsoft อัปเกรด Copilot แก้ปัญหาคอม ช่วยเช็กสาเหตุเครื่องช้า",
+   "url": "https://www.techhub.in.th/microsoft-upgrades-copilot-to-help-troubleshoot-pc-issues-and-identify-causes-of-slowness/",
+   "published": "2026-11-20T06:30:32+00:00",
+   "summary": "Microsoft เพิ่มฟีเจอร์ Local PC Diagnostics ให้ Copilot แก้ปัญหาคอม ช่วยวิเคราะห์สาเหตุเน็ตช้าหรือหูฟังไม่มีเสียงบน Windows คิดว่าทุกคน น่าจะเคยเจอกรณีที่ว่า ต่อหูฟัง Bluetooth กับคอมแล้วขึ้นว่าเชื่อมต่อสำเร็จ แต่เสียงยังไม่ออก หรืออยู่ ๆ อินเทอร์เน็ตบนเครื่องก็ช้าลงจนไม่รู้จะเริ่มเช็คจากตรงไหน ในงาน Microsoft Ignite 2026 บริษัทเผยว่ากำลังเพิ่มฟีเจอร์ Local PC Diagnostics เพื่อให้ Copilot บนเครื่อง Copilot+ PC ช่วยตรวจหาสาเหตุของปัญหาแบบนี้ วิธีใช้ก็ง่ายๆ ครับ โดยเริ่มจากการพิมพ์ถามด้วยภาษาปกติ เช่น “ทำไมหูฟัง Bluetooth ต่อแล้วไม่มีเสียง?” หรือ “ทำไมเน็ตบนคอมเครื่องนี้ถึงช้า?” เมื่อเราอนุญาต Copilot จะตรวจสอบข้อมูลและสถานะของ Windows บนเครื่อง เพื่อหาว่ามีอะไรที่อาจเกี่ยวข้องกับอาการที่เราเจอ จุดที่น่าสนใจคือ Copilot สามารถใช้ข้อมูลจากเครื่องที่กำลังมีปัญหามาประกอบคำตอบ แล้วอธิบายสิ่งที่ตรวจพบด้วยภาษาที่เข้าใจง่าย การสแกนเป็นแบบอ่านอย่างเดียว จึงไม่มีการเปลี่ยนการตั้งค่าระหว่างตรวจ และเรายังเป็นคนตัดสินใจว่าจะทำอะไรต่อครับ สำหรับคนทั่วไป ฟีเจอร์นี้ช่วยให้รู้ว่าควรเริ่มไล่ปัญหาจากตรงไหน โดยเฉพาะเวลาที่เราอธิบายได้แค่ว่า “คอมช้า” หรือ “เสียงไม่ออก” ส่วนในที่ทำงาน ถ้าสุดท้ายยังต้องติดต่อฝ่ายไอที เราก็มีรายละเอียดจากการตรวจสอบไปบอกได้ว่าเกิดอาการอะไรและ Copilot พบอะไรบ้าง Microsoft ระบ"
+  },
+  {
+   "source": "TechHub",
+   "title": "เบื้องหลัง Jensen Huang ลาออก จริงไหม Anthropic บีบปม Local AI",
+   "url": "https://www.techhub.in.th/is-there-truth-to-the-rumors-about-jensen-huang-stepping-down-anthropics-move-highlights-the-issue-of-local-ai/",
+   "published": "2026-11-20T06:22:27+00:00",
+   "summary": "เจาะลึกข่าวลือ Jensen Huang ลาออก จริงไหมที่ Anthropic บีบบอร์ด NVIDIA ปมดัน Local AI แข่งคลาวด์ เช็กข้อเท็จจริงได้ที่นี่ การออกจากตำแหน่งของ Jensen Huang ทำให้จุดกระแสคาดเดาว่าเกิดอะไรขึ้นในห้องประชุมของบอร์ด NVIDIA แต่หนึ่งในข่าวลือที่ถูกแชร์อย่างมากคือ Anthropic อาจกดดันให้บอร์ดปลดเขา เพราะ Jensen ผลักดันให้คนรัน AI บนคอมพิวเตอร์ของตัวเองได้ เรื่องนี้ฟังดูมีเหตุผลทางธุรกิจอยู่บ้าง เพราะ Local AI อาจทำให้บางงานพึ่งบริการบนคลาวด์น้อยลง แต่จนถึงวันนี้ ผมลองหาข้อมูลดู แต่ก็ยังไม่พบหลักฐานอะไรที่ยืนยันว่า Anthropic กดดันบอร์ด NVIDIA หรือใช้เรื่อง Local AI เป็นเหตุผลในการกดดันครับ สิ่งที่ยืนยันได้คือ บอร์ด NVIDIA รับการลาออกของ Jensen เมื่อวันที่ 11 พฤศจิกายน 2569 โดยมีผลทันทีทั้งจากตำแหน่งประธานบริษัท ซีอีโอ และกรรมการ ก่อนประกาศต่อสาธารณะในวันถัดมา และแต่งตั้ง Colette Kress ซึ่งเป็น CFO ขึ้นรักษาการซีอีโอ ขณะเดียวกัน Reuters รายงานโดยอ้างแหล่งข่าวใกล้ชิดว่า บอร์ดประชุมเพื่อพิจารณาว่าจะให้ Jensen พ้นตำแหน่งหรือไม่ ท่ามกลางรายงานเรื่องความสัมพันธ์ส่วนตัวของเขา ร ส่วนเหตุผลที่ Jensen ตัดสินใจลาออกยังไม่ได้ระบุไว้ในเอกสารฉบับนั้น แล้วทำไม Local AI ถึงถูกโยงเข้ามา? ลองนึกถึงบริษัทที่ใช้ AI สรุปเอกสารภายในทุกวัน ถ้าโมเดลที่รันบนเครื่องทำงานนี้ได้ดีพอ บริษัทก็อาจส่งงานขึ้นคลาวด์น้อยลง นั่น"
+  }
+ ]
+}
